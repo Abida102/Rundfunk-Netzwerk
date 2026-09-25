@@ -1,0 +1,1280 @@
+id,name,sex,age,type,Arbeitgeber,job (Berufsbezeichnung),sector,party
+dehohloch,Dennis Hohloch,2,37,A,landtagbrandenburg,mdl,politik,afd
+detumlirsch,Denny Tumlirsch,2,36,A,lmbv,jurist,agrar,NA
+likanellos,Linda Kanellos-Okur,1,39,A,erzbistumberlin,leiter,religion,NA
+anveiel,Andres Veiel,2,67,A,selbststaendig,regisseur,kultur,NA
+kakarger,Katja Karger,1,57,A,dgbbb,vorstand,sozial,NA
+nazivkovic,Nadja Zivkovic,1,48,A,bezirksamtmh,bm,staat,cdu
+makoinzer,Marcus Koinzer,2,39,A,domowina,geschaeftsfuehrer,sozial,NA
+mahagemann,Martin Hagemann,2,68,A,filmuniversitaetbabelsberg,geschaeftsfuehrer,medien,NA
+erstohn,Erik Stohn,2,43,A,landtagbrandenburg,mdl,politik,spd
+noheise,Norman Heise,2,48,A,feriendomizilluetow,leiter,tourismus,NA
+dothie,Dörte Thie,1,66,A,selbststaendig,zahntechniker,gesundheit ,NA
+frhemm,Frauke Hemm,1,58,A,aws,geschaeftsfuehrer,umwelt,NA
+votoennies,Volker-Alexander Tönnies,2,55,A,kreisverwaltungoberhavel,landrat,politik,spd
+elhildebrandt,Elske Hildebrandt,1,52,A,landtagbrandenburg,mdl,politik,spd
+datripke,Dr. Daniel Tripke,2,54,A,selbststaendig,anwalt,recht,NA
+elkountidou,Elena Kountidou,1,47,A,ndm,geschaeftsfuehrer,medien,NA
+frbecker,Frank Becker,2,65,A,senatsverwaltungberlin,beamter,staat,NA
+reauster,Regine Auster,1,68,A,foerdervereinhausnaturpotsdam,geschaeftsfuehrer,umwelt,NA
+chamsinck,Christian Amsinck,2,68,A,vereinigungunternehmenbb,geschaeftsfuehrer,wirtschaft,NA
+ankuehnemann,Andrera Kühnemann,1,63,A,verdi,leiter,sozial,spd
+jajazairi,Jala El Jazairi,1,54,A,unionhilfswerk,koordinator,sozial,NA
+mekuehnemann,Melanie Kühnemann-Grunow,1,54,A,senatsverwaltungbildungberlin,mdl,politik,spd
+anfaber,Anja-Christin Faber,1,51,A,lhfn,geschaeftsfuehrer,sozial,NA
+sanachama,Sara Nachama,1,NA,A,advofleet,rektor,bildung,NA
+frfeuerschuetz,Frank Feuerschütz,2,51,A,evkircheberlin,leiter,bildung,spd
+kariedel,Katharina Riedel,1,62,A,selbststaendig,regisseur,kultur,NA
+hageywitz,Harald Geywitz,2,55,A,telefonicagermany,leiter,religion,spd
+svrissmann,Sven Rissmann,2,48,A,mdl,politiker,politik,cdu
+chgoiny,Christian Goiny,2,61,A,abgeordnetenhausberlin,jurist,staat,cdu
+stschenk,Stefan Schenk,2,57,A,inclusivesolutions,geschaeftsfuehrer,sozial,spd
+digolze,Diana Golze,1,51,A,awopotsdam,koordinator,sozial,linke
+disiegfried,Dirk Siegfried,2,67,A,selbststaendig,anwalt,staat,NA
+alkehr,Alexandra Kehr,1,56,A,thueringerehrenamtsstiftung,referent,sozial,NA
+anfeiks,Antje Feiks,1,47,A,landtagsachsen,mdl,politik,linke
+annowak,Andreas Nowak,2,51,A,landtagsachsen,mdl,politik,cdu
+beziesch,Bernhard Ziesch,2,75,A,domowina,geschaeftsfuehrer,sozial,NA
+chmaier,Christoph Maier,2,52,A,evangelischeakademiesa,pfarrer,religion,NA
+chwagner,Christhard Wagner,2,71,A,evangelischekirchethueringen,oberkirchenrat,religion,NA
+dibauer,Dietrich Bauer,2,66,A,evluthlandeskirchesachsen,vorstand,sozial,NA
+diherz,Dieter Herz,2,72,A,rentner,leiter,staat,NA
+dipanter,Dirk Panter,2,52,A,smwa,minister,staat,spd
+ekkulakova,Ekaterina Kulakova,1,57,A,theaterschule,lehrer,bildung,NA
+frkuehn,Friedrich Kühn,2,55,A,selbststaendig,anwalt,recht,NA
+frnemetz,Frank Nemetz,2,82,A,mdr,leiter,medien,NA
+frschoenborn,Frank Schoenborn,2,55,A,tlbg,beamter,staat,NA
+gukosmehl,Guido Kosmehl,2,51,A,landtagsachsenanhalt,mdl,politik,fdp
+hamauer,Hagen Mauer,2,60,A,selbststaendig,geschaeftsfuehrer,industrie,NA
+hegraichen,Henry Graichen,2,50,A,landratsamtleipzig,landrat,politik,cdu
+hehilker,Heiko Hilker,2,60,A,selbststaendig,geschaeftsfuehrer,NA,linke
+irherfurth,Iris Herfurth,1,65,A,landsachsenanhalt,inspektor,staat,NA
+joleibiger,Joachim Leibiger,2,73,A,landtagthueringen,beamter,politik,NA
+kabeberhold,Katrin Beberhold,1,51,A,agrarburgscheidungen,geschaeftsfuehrer,agrar,NA
+kamitteldorf,Katja Mitteldorf,1,41,A,landtagthueringen,mdl,politik,linke
+kaostermann,Kai Ostermann,2,45,A,stadtjena,koordinator,staat,NA
+kasethi,Kanwal Sethi,2,55,A,selbststaendig,regisseur,medien,NA
+klkloetzner,Klaus Klötzner,2,67,A,kloetznerwerbemittelservice,geschaeftsfuehrer,werbung,NA
+maboehme,Manfred Böhme,2,68,A,ltvsachsen,direktor,tourismus,NA
+mafangohr,Mathias Fangohr,2,48,A,easygastromagdeburg,geschaeftsfuehrer,gastronomie,NA
+maforssbohm,Matthias Forßbohm,2,57,A,forssbohmundsoehnebauunternehmen,geschaeftsfuehrer,bau,NA
+malanghof,Marco Langhof,2,62,A,teleport,geschaeftsfuehrer,it,NA
+maschlimbach,Markus Schlimbach,2,61,A,dgbsachsen,bezirksvorsitzender,sozial,NA
+mavoigt,Mario Voigt,2,49,A,landesregierungthueringen,ministerpraesident,politik,cdu
+miziche,Michael Ziche,2,65,A,landkreistagsachsenanhalt,landrat,staat,cdu
+nigbur,Nina Gbur,1,47,A,demokratischebildungsarbeit,geschaeftsfuehrer,bildung,NA
+olgreie,Oliver Greie,2,50,A,verdi,leiter,sozial,NA
+phnitsche,Philip Nitsche,2,39,A,caritasbistumerfurt,direktor,religion,NA
+rekraushaar,Regina Kraushaar,1,62,A,smil,minister,politik,cdu
+rohoffmann,Ron Hoffmann,2,60,A,iad ,geschaeftsfuehrer,it,NA
+sasieber,Sarah Sieber,1,52,A,ihksachsen,geschaeftsfuehrer,bildung,NA
+sawitt,Sandro Witt,2,45,A,dgb,leiter,sozial,linke
+sescholz,Sebastian Scholz,2,52,A,djv,geschaeftsfuehrer,sozial,NA
+siborgwardt,Siegfried Borgwardt,2,69,A,landtagsachsenanhalt,mdl,politik,cdu
+sireeder,Sina Reeder,1,49,A,landesregierungthueringen,pressesprecher,staat,NA
+stgebhardt,Stefan Gebhardt,2,52,A,landtagsachsenanhalt,mdl,politik,linke
+strether,Stephan Rether,2,65,A,rentner,leiter,religion,NA
+stschikor,Steffi Schikor,1,63,A,stadtverwaltungnaumburg,beamter,staat,NA
+tazieschang,Tamara Zieschang,1,56,A,landesregierungsa,minister,staat,cdu
+thmalcherek,Thomas Malcherek,2,64,A,handwerkskammererfurt,geschaeftsfuehrer,bildung,NA
+ulfranzen,Ulrich Franzen,2,68,A,ostsaechsischensparkassedresden,direktor,finanzen,NA
+woeisenberg,Wolfgang Eisenberg,2,57,A,leuchtstoffwerkbreitungen,geschaeftsfuehrer,industrie,NA
+wogrosskopf,Wolfgang Großkopf,2,72,A,grosskopfkunststofftechnik,geschaeftsfuehrer,industrie,NA
+chade,Christiane Ade,1,54,A,selbststaendig,landwirt,agrar,csu
+mabeck,Dr. Markus Beck,2,70,A,selbststaendig,arzt,gesundheit ,NA
+babecker,Barbara Becker,1,57,A,landtagbayern  ,mdl,politik,csu
+baebenkenstein,Bärbel Benkenstein-Matschiner,1,62,A,stadtfreyung,referent,tourismus,NA
+vrbertsch,Vroni Bertsch,1,46,A,stadtneumarkt,leiter,bildung,NA
+jobeyer,Dr. Johanna Beyer,1,75,A,evangelischlutherischekirchebayern,beamter,sozial,NA
+uwbrandl,Dr. Uwe Brandl,2,67,A,stanglmeierstiftung,jurist,kultur,csu
+dibreit,Dieter Breit,2,65,A,evangelischlutherischekirchebayern,pfarrer,religion,NA
+ildanziger,Ilse Danziger,1,74,A,rentner,verkauf,wirtschaft,NA
+hadipama,Hamado Dipama,2,52,A,agaby,referent,sozial,NA
+sedorny,Serge Dorny,2,64,A,bayerischestaatsoper,intendant,kultur,NA
+aldorow,Alex Dorow,2,62,A,landtagbayern  ,mdl,politik,csu
+maeglauer,Dr. Martina Eglauer,1,62,A,vhsebersberger,geschaeftsfuehrer,bildung,NA
+sifleischmann,Simone Fleischmann,1,56,A,bayerischerlehrerverband,vorstand,bildung,NA
+alfriedrich,P. Alfons Friedrich,1,68,A,erzdioezoesemuenchen,pfarrer,religion,NA
+hegreif,Hermann Greif,2,62,A,selbststaendig,landwirt,agrar,csu
+thhabermann,Thomas Habermann,2,70,A,landkreisrhoengrabfeld,landrat,politik,csu
+vohalbleib,Volkmar Halbleib,2,62,A,landtagbayern  ,mdl,politik,spd
+luhartmann,Ludwig Hartmann,2,48,A,landtagbayern  ,mdl,politik,gruene
+flherrmann,Dr. Florian Herrmann,2,55,A,freistaatbayern,minister,politik,csu
+klholetschek,Klaus Holetschek,2,62,A,landtagbayern  ,mdl,politik,csu
+mehuml,Melanie Huml,1,51,A,landtagbayern  ,mdl,politik,csu
+frhuepers,Dr. Frank Hüpers,2,65,A,handwerkskammermuenchen,geschaeftsfuehrer,wirtschaft,NA
+luklemens,Luise Klemens,1,63,A,verdi,leiter,sozial,NA
+rakleybolte,Rainer Kleybolte,2,69,A,deutschehypo,direktor,finanzen,NA
+chknauer,Dr. Christian Knauer,2,74,A,landkreisaichach,landrat,politik,csu
+jokohler,Jochen Kohler,2,51,A,stadtnuernberg,direktor,bau,csu
+sakurz,Sanne Kurz,1,52,A,selbststaendig,filmemacher,kultur,gruene
+axlinstaedt,Axel Linstädt,2,79,A,rentner,komponist,kultur,NA
+femang,Ferdinand Mang,2,48,A,landtagbayern  ,mdl,politik,afd
+chmoser,Dr. Christian Moser,2,49,A,kreisstadtdeggendorf,ob,politik,csu
+thneumann,Thomas Neumann,2,58,A,handelskammermuenchen,leiter,kommunikation,NA
+runeumaier,Dr. Rudolf Neumaier,2,55,A,heimatpflegebayern,geschaeftsfuehrer,kultur,NA
+benolte,Benjamin Nolte,2,44,A,landtagbayern  ,mdl,politik,afd
+mipiazolo,Prof. Dr. Michael Piazolo,2,67,A,landtagbayern  ,mdl,politik,fw
+rugodehard,Prof. Dr. Dr. Ruppert Godehard,2,73,A,universitaetbamberg,vorstand,bildung,NA
+geschermer,Gerlinde Schermer-Rauwolf,1,67,A,selbststaendig,uebersetzer,kultur,NA
+klschmoeller,Klothilde Schmöller,1,78,A,mtvingolstadt,geschaeftsfuehrer,sport,fw
+saschuhmann,Sandra Schuhmann,1,53,A,evangelischlutherischekirchebayern,vorstand,religion,NA
+phseitz,Philipp Seitz,2,34,A,jugendringbayern,vorstand,sozial,NA
+chseuss,Christian Seuß,2,66,A,rentner,jurist,justiz,NA
+pasiebertz,Dr. Paul Siebertz,2,78,A,NA,anwalt,justiz,NA
+bestiedl,Bernhard Stiedl,2,56,A,dgbbayern,vorstand,sozial,spd
+hastocker,Harald Stocker,2,57,A,selbststaendig,journalist,medien,NA
+matrabusch,Markus Trabusch,2,64,A,stadtwuerzburg,intendant,kultur,NA
+dotropper,Doris Tropper,1,70,A,stadterlangen,direktor,bildung,NA
+miweiss,Michael Weiß,2,36,A,regierungoberpfalz,lehrer,bildung,csu
+juwidmann,Jutta Widmann,1,65,A,landtagbayern  ,mdl,politik,fw
+stwild,Stefan Wild,2,66,A,hotelgastgmbh,hotellier,tourismus,NA
+mawunnike,Martin Wunnike,2,64,A,mittelbayerischerverlag,geschaeftsfuehrer,medien,NA
+onakdeniz,Onur Akdeniz,2,29,A,studienreferandar,lehrer,bildung,NA
+yaalinaghi,Yasmin Alinaghi,1,60,A,paritaetischehessen,geschaeftsfuehrer,sozial,NA
+anbohnenkamprenken,Anne Bohnenkamp-Renken,1,66,A,freiesdeutscheshochstift,direktor,kultur,NA
+ulcaspar,Ulrich Caspar,2,70,A,econo,prokurist,immobilien,NA
+siclaar,Simone Claar,1,NA,A,gewhessen,vorstand,sozial,spd
+inclaus,Ines Claus,1,NA,A,landtaghessen,mdl,politik,cdu
+midangel,Miriam Dangel,1,40,A,bauernverbandhessen,referent,agrar,NA
+sueickemeier,Susanne Eickemeier,1,61,A,hochschuleoffenbach,direktor,bildung,NA
+arenners,Arno Enners,2,62,A,landtaghessen,mdl,politik,afd
+kegeis,Kerstin Geis,1,62,A,landtaghessen,mdl,politik,spd
+kahahne,Karin Hahne,1,NA,A,selbststaendig,anwalt,staat,NA
+raheuberger,Rachel Heuberger,1,75,A,juedischegemeindeffm,leiter,sozial,NA
+bikuemmel,Birgit Kümmel,1,68,A,museumsverbandhessen,leiter,kultur,NA
+jukuhlmann,Juliane Kuhlmann,1,49,A,landwirtschafthessen,leiter,agrar,NA
+mamachalett,Mario Machalett,2,51,A,hessischerjugendring,geschaeftsfuehrer,sozial,NA
+mamencke,Martin Mencke,2,60,A,evkirche,oberkirchenrat,religion,NA
+kamueller,Karin Müller,1,65,A,landesregierunghessen,beamter,poltik,NA
+brott,Brigitte Ott,1,67,A,landesfrauenrathessen,geschaeftsfuehrer,sozial,NA
+wopax,Wolfgang Pax,2,68,A,katholischekirche,pfarrer,religion,NA
+chriess,Christof Riess,2,NA,A,hwkffmrheinmain,geschaeftsfuehrer,bildung,NA
+svringsdorf,Sven Ringsdorf,2,37,A,weisschemietechnik,anwalt,industrie,fdp
+rerock,Rene Rock,2,59,A,landesregierunghessen,mdl,politik,fdp
+mirudolph,Michael Rudolph,2,49,A,dgb,vorstand,sozial,spd
+heschmitt,Heini Schmitt,2,65,A,dbb,vorstand,sozial,NA
+anschneider,Anke Schneider,1,59,A,vbe,vorstand,sozial,NA
+roscholz,Rose-Lore Scholz,1,77,A,bdv,vorstand,sozial,cdu
+kaseewald,Katharina Seewald,1,69,A,vhshessen,leiter,bildung,NA
+evtolpina,Evelina Tolpina,1,54,A,sozialerdienst,paedagoge,sozial,NA
+jevogt,Jean Marc Vogt,1,63,A,operfrankfurt,musiker,kultur,NA
+mawagner,Mathias Wagner,2,52,A,landtaghessen,mdl,politik,gruene
+siweinmannmang,Simone Weinmann-Mang,1,67,A,selbststaendig,geschaeftsfuehrer,wirtschaft,NA
+anzulauf,Anne Zulauf,1,48,A,bfw,koordinator,sozial,NA
+mepayandeh,Dr. Merhad Payandeh,2,66,A,dgb,leiter,sozial,spd
+libudde,Lisa Budde,1,34,A,hannoverrueck,kommunikator,finanzen,NA
+fiabaci,Fikret Abaci,2,62,A,integrationsratniedersachsen,vorstand,sozial,NA
+febernard,Prof. Dr. Felix Bernard,2,NA,A,kathkircheniedersachsen,leiter,religion,NA
+kaelste,Karin Elste,1,63,A,lbuniedersachsen,geschaeftsfuehrer,umwelt,NA
+acengstler,Dr. Achim Engstler,2,67,A,fernuniversitaethagen,dozent,bildung,NA
+utgottschaar,Ute Gottschaar,1,59,A,verdi,leiter,sozial,NA
+migruenberg,Michael Grünberg,2,71,A,selbststaendig,kaufmann,wirtschaft,NA
+imhaake,Imke Haake,1,44,A,stadtgrossenkneten,bm,politik,fdp
+huhebbelmann,Hubertus Hebbelmann,2,72,A,umweltministeriumniedersachsen,referent,umwelt,NA
+cohoeltkemeier,Cornelia Höltkemeier,1,60,A,bauwirtschaftniedersachsen,geschaeftsfuehrer,bau,NA
+otholtz,Ottmar von Holtz,2,65,A,landniedersachsen,beamter,politik,gruene
+hajagau,Hauke Jagau,2,65,A,eckertlaw,anwalt,recht,spd
+ankramer,Anja Kramer,1,55,A,verdibildungswerk,vorstand,bildung,NA
+jekruse,Jens-Peter Kruse,2,82,A,rentner,paedagoge,sozial,NA
+utkueck,Ute Kück,1,62,A,samtgemeindeharsefeld,bm,politik,NA
+milanger,Michael S. Langer,2,60,A,fliegetalentmanufaktur,kaufmann,logistik,gruene
+lamesch,Lars Mesch,2,50,A,evkirchehannover,paedagoge,sozial,NA
+jenacke,Jens Nacke,2,55,A,landtagniedersachsen,mdl,politik,cdu
+sipuppe,Simone Puppe,1,56,A,bundesagenturfuerarbeit,assistent,sozial,NA
+urrudnick,Prof. Dr. Ursula Rudnick,1,63,A,evkirchehannover,theologe,religion,NA
+meschramme,Mechthild Schramme-Haack,1,75,A,regionhannover,beamter,sozial,NA
+clschuessler,Claudia Schüßler,1,59,A,landtagniedersachsen,mdl,politik,spd
+diswinke,Dirk Swinke,2,62,A,sovdniedersachsen,vorstand,sozial,NA
+beunruh,Berbel Unruh,1,63,A,vhsverbandniedersachsen,direktor,bildung,NA
+kaibellstedt,Kai Bellstedt,2,50,A,landschleswig,direktor,bildung,spd
+gubecker,Gunnar Becker,2,57,A,hansebooks,geschaeftsfuehrer,wirtschaft,NA
+bebaeumer,Beate Bäumer,1,54,A,erzbistumhamburg,leiter,religion,NA
+tibrockmann,Tim Brockmann,2,49,A,stadtpreetz,bm,politik,cdu
+nifickinger,Dr. Nico Fickinger,2,62,A,nordmetall,geschaeftsfuehrer,wirtschaft,NA
+sishessler,Dr. Sieglinde Hessler,1,NA,A,dgbnord,leiter,sozial,NA
+jeleutert,Jessica Leutert,1,NA,A,stadtkiel,referent,finanzen,cdu
+flmatz,Florian Matz,2,49,A,matzautoteile,geschaeftsfuehrer,wirtschaft,spd
+remueller,Regina Müller-Kronbügel,1,78,A,landschleswig,beamter,staat,NA
+miott,Michael Ott,2,NA,A,stiftungnaturschutzschleswig,manager,umwelt,NA
+kawulf,Katharina Wulf,1,41,A,frauenberatungschleswig,geschaeftsfuehrer,sozial,NA
+thkaerst,Thomas Kärst,2,58,A,evkirchenord,pastor,religion,NA
+stszczupak,Stefanie Szczupak,1,60,A,selbststaendig,makeupartist,wirtschaft,NA
+utbertrand,Ute Bertrand,1,60,A,robinwood,pressesprecher,umwelt,NA
+gabrasch,Gabriele Brasch,1,64,A,diakoniehamburg,vorstand,religion,NA
+sagoldschmidt,Sandra Goldschmidt,1,50,A,verdihamburg,leiter,sozial,NA
+evhubert,Eva Hubert,1,76,A,rentner,geschaeftsfuehrer,kultur,gruene
+haschmidt,Hansjörg Schmidt,2,52,A,hamburgischebuergschaft,mdl,politik,spd
+kaschroeder,Katja Schroeder,1,52,A,arthurboskampstiftung,leiter,kultur,NA
+antranziska,Dr. Ann-Kathrin Tranziska,1,52,A,flaks,geschaeftsfuehrer,sozial,gruene
+thvolkmann,Thomas Volkmann,2,60,A,steuerberaterverbandhamburg,geschaeftsfuehrer,finanzen,NA
+anvoss,Anneke Voß,1,NA,A,verbraucherzentralehamburg,berater,sozial,NA
+hemueller,Dr. Heike Müller,1,61,A,bauernverbandmalchin,geschaeftsfuehrer,agrar,NA
+frlietz,Frauke Lietz,1,56,A,kulturlandmeckpom,koordinator,religion,NA
+anbader,Anne Bader,1,NA,A,sportbundmeckpom,lehrer,sport,NA
+wohasselfeldt,Wolfgang Hasselfeldt,2,72,A,rentner,ingenieur,bau,NA
+najulitz,Nadine Julitz,1,36,A,landtagmeckpom,mdl,politik,spd
+diknecht,Dietmar Knecht,2,59,A,dbbmeckpom,geschaeftsfuehrer,sozial,cdu
+makrueger,May-Britt Krüger,1,60,A,selbststaendig,friseur,wirtschaft,cdu
+thkrueger,Thomas Krüger,2,57,A,landtagmeckpom,mdl,politik,spd
+miroolf,Michael Roolf,2,65,A,rentner,mdl,politik,NA
+jeschlaupitz,Jennifer Schlaupitz,1,54,A,caritaserzbistumhamburg,leitung,sozial,NA
+joschmidt,Jörg-Michael Schmidt,2,72,A,rentner,journalist,medien,cdu
+klsondergeld,Dr. Klaus Sondergeld,2,NA,A,rentner,NA,NA,NA
+elbest,Ellen-Anna Best,1,NA,A,rentner,richter,recht,NA
+chwechselbaum,Christian Wechselbaum,2,45,A,dgb,landesleiter,sozial,gruene
+heniessen,Ass. Jur. Helge Niessen,2,NA,A,arbeitgeberverbandbremen,jurist,recht,NA
+mazier,Dr. Jan Matthias Zier,2,52,A,arbeitnehmerkammerbremen,referent,wirtschaft,NA
+thkurzke,Thomas Kurzke,2,NA,A,selbststaendig,geschaeftsfuehrer,handwerk,NA
+anrumpf,Antonia Rumpf,1,34,A,evkirchebremen,theologe,religion,NA
+angrote,Andrea Grote,1,NA,A,kathkirchebremen,referent,religion,NA
+hetruepel,Dr. Helga Trüpel,1,NA,A,NA,NA,NA,NA
+fakemp,Farina Kemp,1,NA,A,NA,NA,NA,NA
+dedogan,Derya Sultan Dogan,1,NA,A,NA,NA,NA,NA
+mamirassol,Marcelo Cardoso Mirassol,2,NA,A,NA,NA,NA,NA
+evquantebrandt,Prof. Dr. Eva Quante-Brandt,1,64,A,landessportbundbremen,vorstand,sport,spd
+utgolasowski,Ute Golasowski,1,75,A,selbststaendig,anwalt,recht,gruene
+krniemann,Kristin Niemann,1,40,A,kampnagel,leiter,kommunikation,NA
+thjopping,Thomas Joppig,2,NA,A,schifffahrtsmuseum,leiter,kommunikation,NA
+dischmidtmann,Dirk Schmidtmann,2,71,A,strassenamtbremen,inspektor,bau,gruene
+sekaiser,Selda Kaiser,1,NA,A,stadtbremen,lehrer,bildung,NA
+klbecke,Klaus Becké,2,NA,A,selbststaendig,anwalt,recht,NA
+pidemirel,Pierre Demirel,2,NA,A,vhsbremen,dozent,bildung,NA
+jukoerperich,Jule Körperich,1,51,A,selbststaendig,anwalt,recht,NA
+gereichstein,Gesine Reichstein,1,71,A,radiobremen,redakteur,medien,NA
+uwparpart,Uwe Parpart,2,NA,A,bremerhavenstadt,stadtrat,politik,NA
+anofferhaus,Dr. Anke Offerhaus,1,NA,A,unibremen,dozent,bildung,gruene
+sizeimke,Simon Zeimke,2,43,A,selbststaendig,informatiker,it,cdu
+klanders,Dr. Klaas Anders,2,32,A,stadtbremen,pressesprecher,kommunikation,linke
+maschroeder,Dr. Marcel Schröder,2,31,A,fdp,mdl,politik,fdp
+elreichwald,Elena Reichwald,1,NA,A,NA,NA,NA,spd
+chlinker,Christian Linker,2,NA,A,ratundtat,geschaeftsfuehrer,gesellschaft,NA
+thvonzabern,Thomas von Zabern,2,NA,A,rentner,NA,NA,NA
+mareicksmann,Martina Reicksmann,1,NA,A,rentner,NA,NA,NA
+rozurbrueggen,Rolf Zurbrüggen,2,68,A,vhswarendorf,direktor,bildung,NA
+cobluemel,Corinna Blümel,1,65,A,selbststaendig,journalist,medien,NA
+makaub,Marie Kaub,1,65,A,filmschulekoeln,dozent,bildung,NA
+flbraun,Florian Braun,2,37,A,landtagnrw,mdl,politik,cdu
+grgolland,Gregor Golland,2,52,A,landtagnrw,mdl,politik,cdu
+gahammelrath,Gabriele Hammelrath,1,73,A,landtagnrw,mdl,politik,spd
+jaheinisch,Dr. Jan Heinisch,2,50,A,landtagnrw,mdl,politik,cdu
+frjablonski,Frank Jablonski,2,52,A,landtagnrw,mdl,politik,gruene
+israzanica,Isabel Razanica,1,33,A,landtagnrw,mdl,politik,spd
+kaknoebelspies,Karin Knöbelspies,1,62,A,landtagnrw,mdl,politik,gruene
+kikorte,Kirstin Korte,1,71,A,landtagnrw,mdl,politik,cdu
+fakuehl,Fabiana Kühl ,1,32,A,selbststaendig,berater,sozial,NA
+thnueckel,Thomas Nückel,2,64,A,selbststaendig,journalist,medien,fdp
+svtritschler,Sven Tritschler,2,45,A,landtagnrw,mdl,politik,afd
+alvogt,Alexander Vogt,2,48,A,landtagnrw,mdl,politik,spd
+pevogt,Petra Vogt,1,56,A,landtagnrw,mdl,politik,cdu
+heweber,Dr. Hedda Weber,1,53,A,evkirche,leiter,recht,NA
+hemeyer,Heike Meyer,1,50,A,kathkirche,leiter,kommunikation,NA
+feschotland,Dr. Felix Schotland,2,58,A,selbststaendig,arzt,medizin,NA
+anweber,Anja Weber,1,65,A,dgbnrw,vorsitz,gesellschaft,NA
+judalhoffschereik,Julia Dalhoff-Schereik,1,51,A,dbbnrw,referent,recht,NA
+tanackmayr,Tanja Nackmayr,1,51,A,unternehmernrw,geschaeftsfuehrer,wirtschaft,NA
+clschulte,Claudia Schulte,1,58,A,handwerkskammerduesseldorf,geschaeftsfuehrer,wirtschaft,NA
+suschulzebockeloh,Susanne Schulze Bockeloh,1,61,A,selbststaendig,landwirt,agrar,cdu
+daschneckenburger,Daniela Schneckenburger,1,68,A,staedtetagnrw,leiter,bildung,gruene
+hasuergit,Dr. Hasan Sürgit,2,49,A,drkwestfalenlippe,vorstand,gesundheit,NA
+mabecker,Manuel Becker,2,37,A,elternerziehernrw,geschaeftsfuehrer,gesellschaft,NA
+bekinkel,Benjamin Kinkel,2,43,A,quueresnetzwerknrw,geschaeftsfuehrer,gesellschaft,NA
+gihinnemann,Gisela Hinnemann,1,77,A,rentner,lehrer,bildung,cdu
+hezanderhayat,Helga Zander-Hayat,1,66,A,selbststaendig,anwalt,recht,NA
+lulorenz,Lukas Lorenz,2,34,A,koelnerverkehrsbetriebe,schreiner,handwerk,spd
+sieilers,Dr. Silke Eilers,1,51,A,westfälischerheimatbund,geschaeftsfuehrer,gesellschaft,NA
+makohler,Margareta Kohler,1,79,A,rentner,buchhalter,wirtschaft,NA
+miwenge,Michael Wenge,2,NA,A,bergischeihk,geschaeftsfuehrer,wirtschaft,NA
+cotiwisina,Dr. Constanze Tiwisina,1,47,A,vodafone,leiterin,kommunikation,NA
+vipeveling,Viktoria Peveling,1,47,A,selbststaendig,filmemacher,medien,NA
+hovoege,Horst Vöge,2,79,A,rentner,koch,gastronomie,spd
+geascheid,Prof. Dr. Gerd Ascheid ,2,75,A,rentner,dozent,bildung,NA
+kssakalsek,Ksenija Sakalšek,1,65,A,rhenusfreightlogistics,kaufmann,wirtschaft,NA
+kabuescher,Karl-Josef Büscher,2,72,A,rentner,elektriker,wirtschaft,NA
+dikosslick,Dieter Kosslick,2,78,A,berlinale,direktor,film,NA
+peschmitz,Petra Luise Schmitz,1,74,A,selbststaendig,journalist,medien,NA
+hestumpf,Dr. Heike Stumpf,1,62,A,landesmusikratnrw,referent,musik,NA
+frvanduiven,Friederike van Duiven,1,64,A,selbststaendig,kuenstler,kunst,NA
+mischuerg,Mike Schürg,2,55,A,igmetallnrw,pressesprecher,kommunikation,spd
+doklee,Prof. Dr. Doris Klee,1,71,A,rentner,chemiker,wissenschaft,NA
+pefreitag,Peter Freitag,2,61,A,rheinischeredaktionsgemeinschaft,redakteur,medien,NA
+chhuelsmeier,Christian Hülsmeier,2,68,A,igbcenrw,vorstand,wirtschaft,NA
+anbartz,Anjara Ingrid Bartz,1,NA,A,theaterbonn,musiker,musik,NA
+pewahl,Peter Wahl,2,73,A,rentner,ingenieur,bau,fdp
+bezimmer,Bernd Zimmer,2,70,A,rentner,arzt,medizin,NA
+hekeilhofer,Heike Keilhofer,1,59,A,deutschermieterbundnrw,geschaeftsfuehrer,wirtschaft,NA
+niheitzig,Nicole Heitzig,1,54,A,amtsgerichtpaderborn,richter,recht,NA
+salipan,Sabine Lipan,1,68,A,selbststaendig,autor,kultur,NA
+isgronackwa,Isabel Gronack-Walz,1,60,A,colognedigital,geschaeftsfuehrer,medien,
+abgeordnetenhausberlin,Abgeordnetenhaus Berlin,NA,NA,D,NA,NA,NA,NA
+abschiebungshaftglueckstadt,Abschiebungshafteinrichtung Glückstadt,NA,NA,D,NA,NA,NA,NA
+absolventum,AbsolventUM e. V.,NA,NA,D,NA,NA,NA,NA
+actoophthalmologieforschung,ACTO e. V. Ophthalmologieforschung,NA,NA,D,NA,NA,NA,NA
+adacsachsen,ADAC Sachsen,NA,NA,D,NA,NA,NA,NA
+adlerversicherung,ADLER Versicherung AG,NA,NA,D,NA,NA,NA,NA
+agaby,AGABY Arbeitsgemeinschaft der Ausländer Migranten und Integrationsbeiräte Bayern,NA,NA,D,NA,NA,NA,NA
+agenturfuerarbeit,Agentur für Arbeit,NA,NA,D,NA,NA,NA,NA
+agenturlifetimefilms,Agentur Lifetimefilms,NA,NA,D,NA,NA,NA,NA
+agrarburgscheidungen,Agrar Burgscheidungen eG,NA,NA,D,NA,NA,NA,NA
+agravisraiffeisen,Agravis Raiffeisen AG,NA,NA,D,NA,NA,NA,NA
+akademiederkuenste,Akademie der Künste Berlin,NA,NA,D,NA,NA,NA,NA
+akademiefrankenwarte,Akademie Frankenwarte Würzburg (dpd),NA,NA,D,NA,NA,NA,NA
+akademiepolitischebildungtutzing,Akademie für politische Bildung Tutzing,NA,NA,D,NA,NA,NA,NA
+asf,Aktion Sühnezeichen Friedensdienste e.V.,NA,NA,D,NA,NA,NA,NA
+aktivregionauenland,AktivRegion Holsteiner Auenland,NA,NA,D,NA,NA,NA,NA
+allgaeugmbh,Allgäu GmbH,NA,NA,D,NA,NA,NA,NA
+arbeitgeberverbandbremen,Allgemeiner Arbeitgeberverband von Bremen,NA,NA,D,NA,NA,NA,NA
+wirtschafsverbandnord,Allgemeiner Verband der Wirtschaft Norddeutschlands,NA,NA,D,NA,NA,NA,NA
+altenzentrumluisenhaus,Altenzentrum Luisenhaus gGmbH,NA,NA,D,NA,NA,NA,NA
+ameoskliniken,Ameos-Kliniken Rottal-Inn,NA,NA,D,NA,NA,NA,NA
+ammerlaenderwohnung,Ammerländer Wohnungsbaugesellschaft mbH,NA,NA,D,NA,NA,NA,NA
+strassenamtbremen,Amt für Straßen und Verkehr Bremen,NA,NA,D,NA,NA,NA,NA
+amtsgerichtkoeln,Amtsgericht Köln,NA,NA,D,NA,NA,NA,NA
+anwaeltehavenhaus,Anwälte im Havenhaus,NA,NA,D,NA,NA,NA,NA
+aoksa,AOK Sachsen-Anhalt,NA,NA,D,NA,NA,NA,NA
+arliegenschaftsfond,AR Liegenschaftsfond,NA,NA,D,NA,NA,NA,NA
+arbeitundlebenniedersachsen,Arbeit und Leben Niedersachsen,NA,NA,D,NA,NA,NA,NA
+arbeitundlebenthueringen,Arbeit und Leben Thüringen e.V. ,NA,NA,D,NA,NA,NA,NA
+arbeiterwohlfahrtduesseldorf,Arbeiterwohlfahrt Kreisverband Düsseldorf,NA,NA,D,NA,NA,NA,NA
+awoschleswig,Arbeiterwohlfahrt Landesverband Schleswig-Holstein e.V.,NA,NA,D,NA,NA,NA,NA
+agundwrverbaendessa,Arbeitgeber- und Wirtschaftverbände Sachsen-Anhalt,NA,NA,D,NA,NA,NA,NA
+arbeitgeberverbandnordostchemie,Arbeitgeberverband Nordostchemie e.V. ,NA,NA,D,NA,NA,NA,NA
+arbeitnehmerkammerbremen,Arbeitnehmerkammer Bremen,NA,NA,D,NA,NA,NA,NA
+asfkoeln,Arbeitsgemeinschaft sozialdemokratischer Frauen Köln,NA,NA,D,NA,NA,NA,NA
+arbeitsgruppekunsthamburg,Arbeitsgruppe Bildende Kunst Hamburg,NA,NA,D,NA,NA,NA,NA
+akf,Arbeitskreis Thüringer Familienorganisationen e.V.,NA,NA,D,NA,NA,NA,NA
+arcelormittalbremen,ArcelorMittal Bremen,NA,NA,D,NA,NA,NA,NA
+arcusstiftung,ARCUS Stiftung,NA,NA,D,NA,NA,NA,NA
+ardgremienkonferenz,ARD-Gremienkonferenz,NA,NA,D,NA,NA,NA,NA
+elkbstiftung,Argula-von-Grumbach-Stiftung (von der ELKB),NA,NA,D,NA,NA,NA,NA
+arte,ARTE Deutschland,NA,NA,D,NA,NA,NA,NA
+arthurboskampstiftung,Arthur-Boskamp-Stiftung,NA,NA,D,NA,NA,NA,NA
+aerztekammernordrhein,Ärztekammer Nordrhein,NA,NA,D,NA,NA,NA,NA
+aerztekammerwestfalen,Ärztekammer Westfalen-Lippe,NA,NA,D,NA,NA,NA,NA
+aerztlicherbezirksverbandschwaben,Ärztlicher Bezirksverband Schwaben KdöR,NA,NA,D,NA,NA,NA,NA
+aerztlicherkreisverbandaugsburg,Ärztlicher Kreisverband Augsburg KdöR,NA,NA,D,NA,NA,NA,NA
+augustschmidtstiftung,August-Schmidt-Stiftung,NA,NA,D,NA,NA,NA,NA
+auslandsgesellschaftde,Auslandsgesellschaft.de,NA,NA,D,NA,NA,NA,NA
+ausschusswissenschaft,"Ausschuss für Wissenschaft, Medien, Datenschutz, Informationsfreiheit und Digitalisierung",NA,NA,D,NA,NA,NA,NA
+awo,AWO Arbeiterwohlfahrt e.V.,NA,NA,D,NA,NA,NA,NA
+awopotsdam,AWO Bezirktsverband Potsdam e. V.,NA,NA,D,NA,NA,NA,NA
+awoflensburg,AWO Stadtverband Flensburg,NA,NA,D,NA,NA,NA,NA
+awrgesellschaft,AWR Forschungsgesellschaft für das Weltflüchtlingsproblem,NA,NA,D,NA,NA,NA,NA
+axaversicherung,AXA Versicherung für den öffentlichen Dienst,NA,NA,D,NA,NA,NA,NA
+bauernverbandmalchin,Bauernverband Malchin e.V.,NA,NA,D,NA,NA,NA,NA
+bauernverbandmeckpom,Bauernverband Mecklenburg-Vorpommern  e.V.,NA,NA,D,NA,NA,NA,NA
+bavariafilm,Bavaria Film ,NA,NA,D,NA,NA,NA,NA
+bavariaonefilm,Bavariaone Film- und Fernsehproduktion GmbH,NA,NA,D,NA,NA,NA,NA
+bavarikon,Bavarikon - Kultur- und Wissensschätze Bayerns,NA,NA,D,NA,NA,NA,NA
+bayerischeaerzteversorgung,Bayerische Ärzteversorgung KdöR,NA,NA,D,NA,NA,NA,NA
+handwerkskammerbayern,Bayerische Handwerkskammer,NA,NA,D,NA,NA,NA,NA
+hoerbuechereibayern,"Bayerische Hörbücherei für Blinde, Seh- und Lesebeeinträchtigte e.V.",NA,NA,D,NA,NA,NA,NA
+krankenhausgesellschaftbayern,Bayerische Krankenhausgesellschaft,NA,NA,D,NA,NA,NA,NA
+landesstiftungbayern,Bayerische Landesstiftung,NA,NA,D,NA,NA,NA,NA
+bayerischestaatsoper,Bayerische Staatsoper,NA,NA,D,NA,NA,NA,NA
+bayerischerbauernverband,Bayerischer Bauernverband,NA,NA,D,NA,NA,NA,NA
+dbbbayern,Bayerischer Beamtenbund e.V.,NA,NA,D,NA,NA,NA,NA
+fluechtlingsratbayern,Bayerischer Flüchtlingsrat,NA,NA,D,NA,NA,NA,NA
+gemeindetagbayern,Bayerischer Gemeindetag,NA,NA,D,NA,NA,NA,NA
+heimattagbayern,Bayerischer Heimattag,NA,NA,D,NA,NA,NA,NA
+dehogabayern,Bayerischer Hotel- und Gaststättenverband DEHOGA Bayern e.V.,NA,NA,D,NA,NA,NA,NA
+journalistenbayern,Bayerischer Journalisten-Verband (BJV),NA,NA,D,NA,NA,NA,NA
+jugendringbayern,Bayerischer Jugendring K.d.ö.R.,NA,NA,D,NA,NA,NA,NA
+landessportverbandbayern,Bayerischer Landes-Sportverband e.V.,NA,NA,D,NA,NA,NA,NA
+heimatpflegebayern,Bayerischer Landesverein für Heimatpflege e.V.,NA,NA,D,NA,NA,NA,NA
+landtagbayern,Bayerischer Landtag,NA,NA,D,NA,NA,NA,NA
+bayerischerlehrerverband,Bayerischer Lehrerinnen- und Lehrerverband BLLV e.V.,NA,NA,D,NA,NA,NA,NA
+musikratbayern,Bayerischer Musikrat,NA,NA,D,NA,NA,NA,NA
+normenkontrollratbayern,Bayerischer Normenkontrollrat,NA,NA,D,NA,NA,NA,NA
+saengerbundbayern,Bayerischer Sängerbund,NA,NA,D,NA,NA,NA,NA
+staedtetagbayern,Bayerischer Städtetag,NA,NA,D,NA,NA,NA,NA
+vhsverbandbayern,Bayerischer Volkshochschulverband,NA,NA,D,NA,NA,NA,NA
+heilbaederbayern,Bayerischerr Heilbäderverband,NA,NA,D,NA,NA,NA,NA
+schauspielbayern,Bayerisches Residenztheater,NA,NA,D,NA,NA,NA,NA
+roteskreuzbayern,Bayerisches Rotes Kreuz,NA,NA,D,NA,NA,NA,NA
+tourismusbayerngmbh,Bayern Tourismus Marketing GmbH,NA,NA,D,NA,NA,NA,NA
+bayernwerk,Bayernwerk AG,NA,NA,D,NA,NA,NA,NA
+tbbthueringen,Beamtenbund und Tarifunion Thüringen,NA,NA,D,NA,NA,NA,NA
+befigo,BeFiGO GmbH,NA,NA,D,NA,NA,NA,NA
+christenundjudenniedersachsen,Begegnung - Christen und Juden Niedersachsen e.V.,NA,NA,D,NA,NA,NA,NA
+bsberlin,Behinderten- und Rehabilitationssportverband Berlin e.V.,NA,NA,D,NA,NA,NA,NA
+kulturbehoerdehamburg,Behörde für Kultur und Medien (BKM) Hamburg,NA,NA,D,NA,NA,NA,NA
+uniwuppertal,Bergische Universität Wuppertal,NA,NA,D,NA,NA,NA,NA
+wohlfahrtspflegehessen,Wohlfahrtspflege Hessen,NA,NA,D,NA,NA,NA,NA
+berlinale,Berlinale,NA,NA,D,NA,NA,NA,NA
+bavberlin,Berliner Anwaltsverein (BAV) e.V.,NA,NA,D,NA,NA,NA,NA
+bln,Berliner Landesarbeitsgemeinschaft Naturschutz (BLN) e.V.,NA,NA,D,NA,NA,NA,NA
+stadtreinigungberlin,Berliner Stadtreinigungsbetriebe,NA,NA,D,NA,NA,NA,NA
+bbwleipzig,Berufsbildungswerk Leipzig,NA,NA,D,NA,NA,NA,NA
+bbwstendal,Berufsbildungswerk Stendal,NA,NA,D,NA,NA,NA,NA
+verdibildungswerk,Bildungswerk ver.di in Niedersachsen e.V.,NA,NA,D,NA,NA,NA,NA
+vhshustedt,Bildungszentrum Heimvolkshochschule Hustedt e.V.,NA,NA,D,NA,NA,NA,NA
+bissendorfconsulting,Bissendorf Consulting GmbH,NA,NA,D,NA,NA,NA,NA
+bistumosnabrueck,Bistum Osnabrück,NA,NA,D,NA,NA,NA,NA
+bitkom,BITKOM,NA,NA,D,NA,NA,NA,NA
+blindenvereinbremen,Blinden- und Sehbehindertenverein Bremen e.V.,NA,NA,D,NA,NA,NA,NA
+blindenverbandthueringen,Blinden- und Sehbihindertenverband Thüringen e.V. ,NA,NA,D,NA,NA,NA,NA
+bonifatius,Bonifatius GmbH Paderborn,NA,NA,D,NA,NA,NA,NA
+landfrauenbrandenburg,Brandenburger Landfrauenverband e. V. ,NA,NA,D,NA,NA,NA,NA
+bremerbuendnistschechien,Bremer Bündnis für deutsch-tschechische Zusammenarbeit e.V.,NA,NA,D,NA,NA,NA,NA
+bremerjugendring,Bremer Jugendring,NA,NA,D,NA,NA,NA,NA
+bremerrat,Bremer Rat für Teilhabe und Diversität,NA,NA,D,NA,NA,NA,NA
+vhsbremen,Bremer Volkshochschule,NA,NA,D,NA,NA,NA,NA
+evkirchebremen,Bremische Evangelische Kirche,NA,NA,D,NA,NA,NA,NA
+brmedia,BRmedia (Tochterfirma BR),NA,NA,D,NA,NA,NA,NA
+brueckederkulturenhildesheim,Brücke der Kulturen Hildesheim e.V.,NA,NA,D,NA,NA,NA,NA
+buecherfrauen,BücherFrauen,NA,NA,D,NA,NA,NA,NA
+bundesagenturfuerbayern,Budnesagentur für Arbeit Bayern,NA,NA,D,NA,NA,NA,NA
+bundbremen,BUND Bremen,NA,NA,D,NA,NA,NA,NA
+vertriebenebayern,Bund der Vertriebenen Bayern e.V.,NA,NA,D,NA,NA,NA,NA
+bundniedersachsen,BUND Landesverband Niedersachsen,NA,NA,D,NA,NA,NA,NA
+bundnaturschutz,BUND Naturschutz in Bayern,NA,NA,D,NA,NA,NA,NA
+bundnrw,BUND NRW,NA,NA,D,NA,NA,NA,NA
+bundthueringen,BUND Thüringen,NA,NA,D,NA,NA,NA,NA
+bundesagenturfuerarbeit,Bundesagentur für Arbeit,NA,NA,D,NA,NA,NA,NA
+bundesagenturfuerarbeitsachsen,Bundesagentur für Arbeit Sachsen,NA,NA,D,NA,NA,NA,NA
+akademiekulturelleswolfenbuettel,Bundesakademie für Kulturelle Bildung Wolfenbüttel,NA,NA,D,NA,NA,NA,NA
+bagso,Bundesarbeitsgemeinschaft der Seniorenorganisationen,NA,NA,D,NA,NA,NA,NA
+basj,Bundesarbeitsgemeinschaft Schwule Jurist*innen,NA,NA,D,NA,NA,NA,NA
+bundesbanknrw,Bundesbank NRW,NA,NA,D,NA,NA,NA,NA
+nedderdueuetsch,Bundesraat för Nedderdüütsch,NA,NA,D,NA,NA,NA,NA
+bundesstiftunggleichstellung,Bundesstiftung Gleichstellung,NA,NA,D,NA,NA,NA,NA
+bundesstiftungmagnushirschfeld,Bundesstiftung Magnus Hirschfeld,NA,NA,D,NA,NA,NA,NA
+verbandbildenderkuenstler,Bundesverband Bildender Künstlerinnen und Künstler,NA,NA,D,NA,NA,NA,NA
+stmarienkirche,Bürgerkirche St. Marien Frankfurt,NA,NA,D,NA,NA,NA,NA
+buergerstiftungfreising,Bürgerstiftung Freising,NA,NA,D,NA,NA,NA,NA
+gedenkstaettenstiftungschleswig,Bürgerstiftung Schleswig-Holsteinische Gedenkstätten,NA,NA,D,NA,NA,NA,NA
+buergschaftsbankhamburg,Bürgschaftsbank Hamburg GmbH,NA,NA,D,NA,NA,NA,NA
+buergerschaftsbanknrw,Bürgschaftsbank NRW,NA,NA,D,NA,NA,NA,NA
+buergschaftsbankthueringen,Bürgschaftsbank Thüringen,NA,NA,D,NA,NA,NA,NA
+burschenschaftdanubia,Burschenschaft Danubia München,NA,NA,D,NA,NA,NA,NA
+bpwgermanyclub,Business and Professional Women – Germany Club Köln,NA,NA,D,NA,NA,NA,NA
+caritas,Caritas,NA,NA,D,NA,NA,NA,NA
+caritaserzbistumhamburg,Caritas im Erzbistum Hamburg,NA,NA,D,NA,NA,NA,NA
+caritasschulengmbh,Caritas Schulen gGmbH,NA,NA,D,NA,NA,NA,NA
+caritasratdeggendorf,Caritasrats in Deggendorf,NA,NA,D,NA,NA,NA,NA
+caritasbistumerfurt,Caritasverband für das Bistum Erfurt,NA,NA,D,NA,NA,NA,NA
+cduniedersachsen,CDU Niedersachsen,NA,NA,D,NA,NA,NA,NA
+cduschleswig,CDU Schleswig-Holstein,NA,NA,D,NA,NA,NA,NA
+chesssports,ChessSports Association,NA,NA,D,NA,NA,NA,NA
+christkrankenhauseisenach,Christliches Krankenhaus Eisenach gGmbH,NA,NA,D,NA,NA,NA,NA
+christophoruswerk,Christophorus Werk gGmbH,NA,NA,D,NA,NA,NA,NA
+clusteritmitteldeutschland,Cluster IT Mitteldeutschland,NA,NA,D,NA,NA,NA,NA
+colognedigital,Cologne Digital ,NA,NA,D,NA,NA,NA,NA
+colognealliance,Cologne-Alliance,NA,NA,D,NA,NA,NA,NA
+demokratischebildungsarbeit,Courage-Werkstatt für demokratische Bildungsarbeit ,NA,NA,D,NA,NA,NA,NA
+sorbischbrandenburg,Dachverbände der sorbischen/wendischen Verbände und Vereine im Land Brandenburg,NA,NA,D,NA,NA,NA,NA
+dakgesundheit,DAK Gesundheit - Krankenversicherung,NA,NA,D,NA,NA,NA,NA
+dbbakademie,dbb Akademie,NA,NA,D,NA,NA,NA,NA
+dbbmeckpom,dbb Beamtenbund und Tarifunion Mecklenburg-Vorpommern,NA,NA,D,NA,NA,NA,NA
+dbbnrw,DBB NRW Beamtenbund und Tarifunion NRW,NA,NA,D,NA,NA,NA,NA
+debritfranzgesellschaft,Deutsch-Britische und Deutsch-Französischen Gesellschaft Bocholt,NA,NA,D,NA,NA,NA,NA
+deutschfranzkreis,Deutsch-französischer Kreis,NA,NA,D,NA,NA,NA,NA
+deutscheboerseag,Deutsche Börse AG,NA,NA,D,NA,NA,NA,NA
+gesellschaftosteuropakunde,Deutsche Gesellschaft für Osteuropakunde e. V.,NA,NA,D,NA,NA,NA,NA
+handwerkszeitungdhz,Deutsche Handwerkszeitung DHZ,NA,NA,D,NA,NA,NA,NA
+dju,Deutsche Journalistinnen- und Journalisten-Union,NA,NA,D,NA,NA,NA,NA
+deutschereiterlichevereinigung,Deutsche Reiterliche Vereinigung,NA,NA,D,NA,NA,NA,NA
+rentenversicherungbraunschweig,Deutsche Rentenversicherung Braunschweig-Hannover,NA,NA,D,NA,NA,NA,NA
+dtsteuergewerkschaftsa,Deutsche Steuergewerkschaft Sachsen-Anhalt,NA,NA,D,NA,NA,NA,NA
+telekom,Deutsche Telekom,NA,NA,D,NA,NA,NA,NA
+dtverkehrswacht,Deutsche Verkehrswacht e.V.,NA,NA,D,NA,NA,NA,NA
+deutschewildtierrettung,Deutsche Wildtierrettung,NA,NA,D,NA,NA,NA,NA
+dtfundraisingverband,Deutschen Fundraising Verband,NA,NA,D,NA,NA,NA,NA
+dgvm,Deutschen Gesellschaft für Verbandsmanagement (DGVM),NA,NA,D,NA,NA,NA,NA
+deutscherbauernverband,Deutscher Bauernverband,NA,NA,D,NA,NA,NA,NA
+dbb,Deutscher Beamtenbund,NA,NA,D,NA,NA,NA,NA
+dbbsachsenanhalt,Deutscher Beamtenbund Sachsen-Anhalt,NA,NA,D,NA,NA,NA,NA
+dtchorverband,Deutscher Chorverband e.V.,NA,NA,D,NA,NA,NA,NA
+def,Deutscher Evangelischer Frauenbund (DEF),NA,NA,D,NA,NA,NA,NA
+dtevkirchentag,Deutscher Evangelischer Kirchentag,NA,NA,D,NA,NA,NA,NA
+evverbandaltenarbeit,Deutscher Evangelischer Verband für Altenarbeit und Pflege e.V.,NA,NA,D,NA,NA,NA,NA
+dtfamilienverband,Deutscher Familienverband – LV Berlin,NA,NA,D,NA,NA,NA,NA
+dgb,Deutscher Gewerkschaftsbund,NA,NA,D,NA,NA,NA,NA
+dgbbayern,Deutscher Gewerkschaftsbund Bayern,NA,NA,D,NA,NA,NA,NA
+dgbbb,Deutscher Gewerkschaftsbund Berlin-Brandenburg,NA,NA,D,NA,NA,NA,NA
+dgbbw,Deutscher Gewerkschaftsbund Landesbezirk Baden-Württemberg,NA,NA,D,NA,NA,NA,NA
+dgbnrw,Deutscher Gewerkschaftsbund NRW,NA,NA,D,NA,NA,NA,NA
+dgbsachsen,Deutscher Gewerkschaftsbund Sachsen,NA,NA,D,NA,NA,NA,NA
+dgbthueringen,Deutscher Gewerkschaftsbund Thüringen,NA,NA,D,NA,NA,NA,NA
+djv,Deutscher Journalisten-Verband,NA,NA,D,NA,NA,NA,NA
+djvsachsen,Deutscher Journalisten-Verband Sachsen,NA,NA,D,NA,NA,NA,NA
+deutscherkinderschutzbund,Deutscher Kinderschutzbund,NA,NA,D,NA,NA,NA,NA
+kinderschutzbund,Deutscher Kinderschutzbund e.V.,NA,NA,D,NA,NA,NA,NA
+mieterbundschleswig,Deutscher Mieterbund Landesverband Schleswig-Holstein,NA,NA,D,NA,NA,NA,NA
+deutschermieterbundnrw,Deutscher Mieterbund NRW,NA,NA,D,NA,NA,NA,NA
+deutscherolympischersportbund,Deutscher Olympischer Sportbund e.V. ,NA,NA,D,NA,NA,NA,NA
+paritwohlfahrtsverbandnrw,Deutscher Paritätischer Wohlfahrtsverband Landesverband NRW,NA,NA,D,NA,NA,NA,NA
+deutscherschulpreis,Deutscher Schulpreis,NA,NA,D,NA,NA,NA,NA
+dstgb,Deutscher Städte- und Gemeindebund,NA,NA,D,NA,NA,NA,NA
+vhsverbanddeutschland,Deutscher Volkshochschul-Verband,NA,NA,D,NA,NA,NA,NA
+volkshochschulverband,Deutscher Volkshochschulverband,NA,NA,D,NA,NA,NA,NA
+schifffahrtsmuseum,Deutsches Schifffahrtsmuseum,NA,NA,D,NA,NA,NA,NA
+deutschessportmuseum,Deutsches Sport- und Olympia Museum,NA,NA,D,NA,NA,NA,NA
+dgbniedersachsen,DGB Niedersachsen,NA,NA,D,NA,NA,NA,NA
+dgbnord,DGB Nord,NA,NA,D,NA,NA,NA,NA
+diakoniehamburg,Diakonie Hamburg,NA,NA,D,NA,NA,NA,NA
+diakonischestiftungsalem,Diakonische Stiftung Salem,NA,NA,D,NA,NA,NA,NA
+diakonischestiftungwittekindshof,Diakonische Stiftung Wittekindshof,NA,NA,D,NA,NA,NA,NA
+diakonischeswerkbayern,Diakonisches Werk Bayern,NA,NA,D,NA,NA,NA,NA
+dietergoerlitzstiftung,Dieter-Görlitz-Stiftung,NA,NA,D,NA,NA,NA,NA
+dihk,DIHK,NA,NA,D,NA,NA,NA,NA
+dlrgluckenwalde,DLRG Luckenwalde,NA,NA,D,NA,NA,NA,NA
+fluchtvertreibungversoehnung,"Dokumentationszentrum Flucht, Vertreibung, Versöhnung Berlin",NA,NA,D,NA,NA,NA,NA
+donbosco,Don Bosco Medien GmbH,NA,NA,D,NA,NA,NA,NA
+donauhafendeggendorf,Donau-Hafen Deggendor,NA,NA,D,NA,NA,NA,NA
+downsyndrominfo,DownSyndrom-Infocenter e. V.,NA,NA,D,NA,NA,NA,NA
+dresdnermusikfestspiele,Dresdner Musikfestspiele,NA,NA,D,NA,NA,NA,NA
+dresdnersportclub,Dresdner Sportclub 1898 e.V. ,NA,NA,D,NA,NA,NA,NA
+drkwestfalenlippe,DRK Landesverband Westfalen-Lippe,NA,NA,D,NA,NA,NA,NA
+drkkinderkliniksiegen,DRK-Kinderklinik Siegen,NA,NA,D,NA,NA,NA,NA
+duisport,duisport Duisburger Hafen AG,NA,NA,D,NA,NA,NA,NA
+easygastromagdeburg,Easy Gastro Magdeburg GmbH,NA,NA,D,NA,NA,NA,NA
+eckertlaw,ECKEKRT Rechtsanwälte Steuerberater Partnergesellschaft mbB,NA,NA,D,NA,NA,NA,NA
+eco,eco,NA,NA,D,NA,NA,NA,NA
+ehrenamtsstiftungmeckpom,Ehrenamtsstiftung MV,NA,NA,D,NA,NA,NA,NA
+vereinarbeitqualifizierung,Ehrenfelder Vereins für Arbeit und Qualifizierung,NA,NA,D,NA,NA,NA,NA
+erzbistumberlin,Erzbistum Berlin,NA,NA,D,NA,NA,NA,NA
+erzbistumhamburg,Erzbistum Hamburg,NA,NA,D,NA,NA,NA,NA
+erzdioezoesemuenchen,Erzdiözöse München und Freising,NA,NA,D,NA,NA,NA,NA
+eufundraising,EU Fundraising Association,NA,NA,D,NA,NA,NA,NA
+europaunionbayern,Europa-Union Bayern e.V.,NA,NA,D,NA,NA,NA,NA
+europaunionnrw,Europa-Union NRW,NA,NA,D,NA,NA,NA,NA
+evkirchenord,Ev.-Luth. Kirche in Norddeutschland,NA,NA,D,NA,NA,NA,NA
+evkircheflensburg,Ev.-Luth. Kirchenkreis Schleswig-Flensburg,NA,NA,D,NA,NA,NA,NA
+evkirchehannover,Ev.-Luth. Landeskirche Hannover,NA,NA,D,NA,NA,NA,NA
+evkirchebayern,Evangelisch-Lutherische Kirche in Bayern (ELKB),NA,NA,D,NA,NA,NA,NA
+evangelischeakademiesa,Evangelische Akademie Sachsen-Anhalt,NA,NA,D,NA,NA,NA,NA
+evaktionsgemeinschaftfamilienfragen,Evangelische Aktionsgemeinschaft für Familienfragen e.V.,NA,NA,D,NA,NA,NA,NA
+evangelischefrauenbayern,Evangelische Frauen Bayern (EFB),NA,NA,D,NA,NA,NA,NA
+evangelischehochschulesoziales,Evangelische Hochschule für Soziales,NA,NA,D,NA,NA,NA,NA
+evjugendsozialarbeitbayern,Evangelische Jugendsozialarbeit Bayern e.V.,NA,NA,D,NA,NA,NA,NA
+evkirche,Evangelische Kirche,NA,NA,D,NA,NA,NA,NA
+evkircheberlin,Evangelische Kirche Berlin,NA,NA,D,NA,NA,NA,NA
+evkirchethueringen,Evangelische Kriche in Mitteldeutschland,NA,NA,D,NA,NA,NA,NA
+evangelischeschulstiftungbayern,Evangelische Schulstiftung Bayern,NA,NA,D,NA,NA,NA,NA
+evseelsorgebundeswehr,Evangelische Seelsorge in der Bundeswehr,NA,NA,D,NA,NA,NA,NA
+evstiftunghospiz,Evangelische Stiftung Hospiz,NA,NA,D,NA,NA,NA,NA
+ezvkdarmstadt,Evangelische Zusatzversorgungskasse Darmstadt,NA,NA,D,NA,NA,NA,NA
+evangelischerarbeitskreisbayern,Evangelischer Arbeitskreis Bayern,NA,NA,D,NA,NA,NA,NA
+evangelischerarbeitskreisunterfranken,Evangelischer Arbeitskreis Unterfranken ,NA,NA,D,NA,NA,NA,NA
+evangelischerkrankenhausverbandsachsen,Evangelischer Krankenhausverband Sachsen,NA,NA,D,NA,NA,NA,NA
+evangelischermedienverbandsachsen,Evangelischer Medienverband Sachsen,NA,NA,D,NA,NA,NA,NA
+epvm,Evangelischer Presseverband in Mitteldeutschland,NA,NA,D,NA,NA,NA,NA
+ewetel,EWE TEL GmbH,NA,NA,D,NA,NA,NA,NA
+expertgroupeuropjournalisten,Expert Group Online/Digitales der Europäischen Journalisten-Föderation,NA,NA,D,NA,NA,NA,NA
+familienunternehmernrw,Familienunternehmer e.V. Landesbereich NRW,NA,NA,D,NA,NA,NA,NA
+fcgermania,FC Germania Zündorf,NA,NA,D,NA,NA,NA,NA
+fdpniedersachsen,FDP Niedersachsen,NA,NA,D,NA,NA,NA,NA
+fernsehverbandbw,Fernseh- und Filmproduzentenverband Baden-Württemberg,NA,NA,D,NA,NA,NA,NA
+fernuniversitaethagen,FernUniversität in Hagen,NA,NA,D,NA,NA,NA,NA
+fwheiligenhaus,Feuerwehr Heiligenhaus,NA,NA,D,NA,NA,NA,NA
+filmjena,FILM e.V.,NA,NA,D,NA,NA,NA,NA
+filmmediennrw,Film und Medienverband NRW,NA,NA,D,NA,NA,NA,NA
+filmmedienstiftungnrw,Film- und Medienstiftung NRW,NA,NA,D,NA,NA,NA,NA
+filmbuerobremen,Filmbüro Bremen,NA,NA,D,NA,NA,NA,NA
+filmbueronw,Filmbüro NW,NA,NA,D,NA,NA,NA,NA
+filmfernsehfondsbayern,FilmFernsehfonds Bayern GmbH (FFF),NA,NA,D,NA,NA,NA,NA
+unibabelsberg,Filmuniversität Babelsberg Konrad Wolf,NA,NA,D,NA,NA,NA,NA
+filmundfernsehbb,Filmverband Brandenburg e. V. und Berliner Film- und Fernsehverband e. V.,NA,NA,D,NA,NA,NA,NA
+finanzsportgemeinschaftsa,Finanzsportgemeinschaft Sachsen-Anhalt e.V. ,NA,NA,D,NA,NA,NA,NA
+finkundhartmann,Fink&Hartmann Gbr,NA,NA,D,NA,NA,NA,NA
+flaks,FLAKS e.V. Zentrum für Frauen in Altona,NA,NA,D,NA,NA,NA,NA
+fliegetalentmanufaktur,FLIEGE Talente GmbH,NA,NA,D,NA,NA,NA,NA
+sisifreundeunterwittelsbach,Förderer und Freunde des Sisi-Schlosses Unterwittelsbach,NA,NA,D,NA,NA,NA,NA
+foerderkreisdtschriftstellerniedersachsen,Förderkreis deutscher Schriftsteller in Niedersachsen und Bremen e.V.,NA,NA,D,NA,NA,NA,NA
+filmverbandbb,Förderkreis Film Berlin-Brandenburg e.V.,NA,NA,D,NA,NA,NA,NA
+foerdergedenkorttvier,Förderkreis Gedenkort T4 e. V.,NA,NA,D,NA,NA,NA,NA
+foerderakademiekunstbayern,Förderverein der Akademie für Darstellende Kunst Bayern e.V.,NA,NA,D,NA,NA,NA,NA
+foerderevschuleberlin,Förderverein der Evangelischen Schule Berlin Zentrum,NA,NA,D,NA,NA,NA,NA
+hiberniaschule,Förderverein der Hiberniaschule,NA,NA,D,NA,NA,NA,NA
+foerderpicassoschule,Förderverein der Picasso-Grundschule,NA,NA,D,NA,NA,NA,NA
+foerderunggsgymnasium,Förderverein Goethe-Schiller-Gymnasium,NA,NA,D,NA,NA,NA,NA
+foerderjuedischerfriedhofweissensee,Förderverein Jüdischer Friedhof Weißensee,NA,NA,D,NA,NA,NA,NA
+telseelsorgebb,Förderverein TelefonSeelsorge Berlin-Brandenburg,NA,NA,D,NA,NA,NA,NA
+foerderungwiesenschule,Förderverein Wiesenschule Jüterbog,NA,NA,D,NA,NA,NA,NA
+forssbohmundsoehnebauunternehmen,Forßbohm und Söhne Bauunternehmen GmbH,NA,NA,D,NA,NA,NA,NA
+frankenbund,"Frankenbund e.V. Geschichte, Kunst und Kultur",NA,NA,D,NA,NA,NA,NA
+fauenratnrw,FrauenRat NRW,NA,NA,D,NA,NA,NA,NA
+frauenwerkstein,Frauenwerk Stein e.V.,NA,NA,D,NA,NA,NA,NA
+frauenzentrumgifhorn,Frauenzentrum Frauen(t)räume e.V.,NA,NA,D,NA,NA,NA,NA
+stadtbremen,Freie Hansestadt Bremen,NA,NA,D,NA,NA,NA,NA
+wohlfahrtspflegenrw,Freie Wohlfahrtspflege des Landes NRW,NA,NA,D,NA,NA,NA,NA
+freiewohlfahrtspflegesachsen,Freie Wohlfahrtspflege Sachsen,NA,NA,D,NA,NA,NA,NA
+freundebambergersymphoniker,Freunde der Bamberger Symphoniker,NA,NA,D,NA,NA,NA,NA
+residenzfreunde,Freunde der Residenz e.V.,NA,NA,D,NA,NA,NA,NA
+mainfraenkischekunst,Freunde Mainfränkische Kunst und Geschichte,NA,NA,D,NA,NA,NA,NA
+freundethdeggendorf,Freunde und Förderer der TH Deggendorf,NA,NA,D,NA,NA,NA,NA
+freundekatholischeakademiebayern,Freunde und Gönner der Katholischen Akademie in Bayern e.V.,NA,NA,D,NA,NA,NA,NA
+freundeskreisbambergerdom,Freundeskreis der Museen um den Bamberger Dom ,NA,NA,D,NA,NA,NA,NA
+freundedesmpz,Freundeskreis des Museumspädagogischen Zentrums (MPZ) e.V.,NA,NA,D,NA,NA,NA,NA
+freundeskreisfhlandshut,Freundeskreis Hochschule Landshut,NA,NA,D,NA,NA,NA,NA
+freundekinotoni,Freundeskreis Kino Toni,NA,NA,D,NA,NA,NA,NA
+friedrichboedeckerkreis,Friedrich-Bödecker-Kreis,NA,NA,D,NA,NA,NA,NA
+fsvluckenwalde,FSV Luckenwalde,NA,NA,D,NA,NA,NA,NA
+gemeinderatsynagogen,Gemeinderat der Synagogen,NA,NA,D,NA,NA,NA,NA
+sparbauverein,Gemeinnütziger Spar- und Bauvereins Heiligenhaus,NA,NA,D,NA,NA,NA,NA
+genossbuehnenangehoerigenrw,Genossenschaft Deutscher Bühnen-Angehöriger NRW,NA,NA,D,NA,NA,NA,NA
+naturschutzunterweser,Gesamtverband Natur- und Umweltschutz Unterweser,NA,NA,D,NA,NA,NA,NA
+freundebayreuth,Gesellschaft der Freunde von Bayreuth e.V.,NA,NA,D,NA,NA,NA,NA
+gesellschaftliteraturnrw,Gesellschaft für Literatur NRW,NA,NA,D,NA,NA,NA,NA
+katholischepublizisten,Gesellschaft Katholischer Publizisten (GKP),NA,NA,D,NA,NA,NA,NA
+pflegeundgesundheitkreisploen,Gesundheits- und Pflegeeinrichtungen des Kreises Plön,NA,NA,D,NA,NA,NA,NA
+igbcenrw,"Gewerkschaft IG Bergbau, Chemie und Energie NRW",NA,NA,D,NA,NA,NA,NA
+igmetallnrw,Gewerkschaft IG Metall NRW,NA,NA,D,NA,NA,NA,NA
+gleichberechtigungundvernetzung,Gleichberechtigung und Vernetzung e.V.,NA,NA,D,NA,NA,NA,NA
+goerres,Görres-Gesellschaft zur Pflege der Wissenschaft,NA,NA,D,NA,NA,NA,NA
+grachtenparkaasee,Grachtenpark Aasee,NA,NA,D,NA,NA,NA,NA
+grimmepreisjury,Grimme Preis Jury,NA,NA,D,NA,NA,NA,NA
+grosskopfkunststofftechnik,Großkopf Kunststofftechnik,NA,NA,D,NA,NA,NA,NA
+grueneniedersachsen,Gründe Niedersachsen,NA,NA,D,NA,NA,NA,NA
+grundstuecksgmbh,Grundstücks GmbH,NA,NA,D,NA,NA,NA,NA
+gruenealte,Grüne Alte,NA,NA,D,NA,NA,NA,NA
+gruenehamburg,Grüne Hamburg,NA,NA,D,NA,NA,NA,NA
+hgv,Hamburger Gesellschaft für Vermögens- und Beteiligungsmanagement,NA,NA,D,NA,NA,NA,NA
+haspaag,Hamburger Sparkasse AG,NA,NA,D,NA,NA,NA,NA
+hamburgischebuergschaft,Hamburgische Bürgerschaft,NA,NA,D,NA,NA,NA,NA
+kulturstiftunghamburg,Hamburgische Kulturstiftung,NA,NA,D,NA,NA,NA,NA
+handwerknrw,Handwerk.NRW,NA,NA,D,NA,NA,NA,NA
+hwkberlin,Handwerkskammer Berlin und Brandenburg,NA,NA,D,NA,NA,NA,NA
+handwerkskamerbremen,Handwerkskammer Bremen,NA,NA,D,NA,NA,NA,NA
+handwerkskammererfurt,Handwerkskammer Erfurt,NA,NA,D,NA,NA,NA,NA
+handwerkskammerleipzig,Handwerkskammer Leipzig,NA,NA,D,NA,NA,NA,NA
+handwerksverbandthue,Handwerksverband Thüringen,NA,NA,D,NA,NA,NA,NA
+hannover96,Hannover 96,NA,NA,D,NA,NA,NA,NA
+hannoverrueck,Hannover Rück Versicherung,NA,NA,D,NA,NA,NA,NA
+hannsseidelstiftung,Hanns-Seidel-Stiftung München,NA,NA,D,NA,NA,NA,NA
+hansebooks,Hansebooks GmbH,NA,NA,D,NA,NA,NA,NA
+hausundgrundmeckpom,Haus & Grund Mecklenburg-Vorpommern,NA,NA,D,NA,NA,NA,NA
+hausgeschichtebayern,Haus der Bayerischen Geschichte,NA,NA,D,NA,NA,NA,NA
+hausdergeschichtenrw,Haus der Geschichte NRW,NA,NA,D,NA,NA,NA,NA
+heimatverbandmeckpom,Heimatverband Mecklenburg-Vorpommern,NA,NA,D,NA,NA,NA,NA
+heinrichboellstiftung,Heinrich-Böll-Stiftung,NA,NA,D,NA,NA,NA,NA
+help,help e.V. - Hilfe zur Selbsthilfe,NA,NA,D,NA,NA,NA,NA
+vhshessen,Hessischer Volkshochschulverband,NA,NA,D,NA,NA,NA,NA
+hochschulebremerhaven,Hochschule Bremerhaven,NA,NA,D,NA,NA,NA,NA
+kunsthochschulehamburg,Hochschule für bildende Künste Hamburg,NA,NA,D,NA,NA,NA,NA
+hochschulefuerkuenste,Hochschule für Künste Bremen,NA,NA,D,NA,NA,NA,NA
+hochschulephilosophiemuenchen,Hochschule für Philosophie München,NA,NA,D,NA,NA,NA,NA
+hotelgastgmbh,HotelGast GmbH,NA,NA,D,NA,NA,NA,NA
+humanistischeunion,Humanistische Union,NA,NA,D,NA,NA,NA,NA
+iftec,IFTEC GmbH & Co.KG,NA,NA,D,NA,NA,NA,NA
+igrelan,IGR ELAN e.V. ,NA,NA,D,NA,NA,NA,NA
+bergischeihk,IHK NRW,NA,NA,D,NA,NA,NA,NA
+ikk,IKK classic Krankenkasse,NA,NA,D,NA,NA,NA,NA
+ksghannover,Immobilien Wohnen KSG Hannover,NA,NA,D,NA,NA,NA,NA
+alevitenbremen,In Bremen lebende Alevitinnen und Aleviten,NA,NA,D,NA,NA,NA,NA
+muslimebremen,In Bremen lebende Musliminen und Muslime,NA,NA,D,NA,NA,NA,NA
+handelskammermuenchen,Industrie und Handelskammer München und Oberbayern,NA,NA,D,NA,NA,NA,NA
+ihk,Industrie- und Handelskammer,NA,NA,D,NA,NA,NA,NA
+ihksachsen,Industrie- und Handelskammer Sachsen,NA,NA,D,NA,NA,NA,NA
+ihkbb,Industrie- und Handelskammer zu Berlin und des Landes Brandenburg,NA,NA,D,NA,NA,NA,NA
+industrieclubsachsen,Industrieclub Sachsen e.V. ,NA,NA,D,NA,NA,NA,NA
+antirassismusnrw,Informations- und Dokumentationszentrums für Antirassismusarbeit NRW,NA,NA,D,NA,NA,NA,NA
+iad ,Informationsverarebitung und angewandte Datentechnik GmbH,NA,NA,D,NA,NA,NA,NA
+ingenieurkammerbaunrw,Ingenieurkammer-Bau NRW,NA,NA,D,NA,NA,NA,NA
+initiativeaachen,Initiative Aachen,NA,NA,D,NA,NA,NA,NA
+mueritzhilft,Initiative Müritz hilft e.V.,NA,NA,D,NA,NA,NA,NA
+zukunftshandelmeckpom,Initiative Zukunftshandeln MV,NA,NA,D,NA,NA,NA,NA
+idw,Institut der Wirtschaftsprüfer,NA,NA,D,NA,NA,NA,NA
+iffse,Instituts für Glaubensfreiheit und Sicherheit in Europa,NA,NA,D,NA,NA,NA,NA
+integrativertreffrostock,Integrativer Treff e.V.,NA,NA,D,NA,NA,NA,NA
+inter,INTER Versicherung,NA,NA,D,NA,NA,NA,NA
+filmschulekoeln,Internationale Filmschule Köln,NA,NA,D,NA,NA,NA,NA
+martinbuberstiftung,Internationale Martin Buber Stiftung,NA,NA,D,NA,NA,NA,NA
+israelitischekultusgemeinden,Israelitische Kulutsgemeinden,NA,NA,D,NA,NA,NA,NA
+itmultimediaindustriesa,IT- und Multimediaindustrie Sachsen-Anhalt,NA,NA,D,NA,NA,NA,NA
+itcgmbh,ITC GmbH,NA,NA,D,NA,NA,NA,NA
+johannauerstiftung,Johann-Auer-Stiftung,NA,NA,D,NA,NA,NA,NA
+juedischegemeindensachsen,Jüdische Gemeinde Dresden K.d.ö.R,NA,NA,D,NA,NA,NA,NA
+juedischegemeindehamburg,Jüdische Gemeinde in Hamburg,NA,NA,D,NA,NA,NA,NA
+juedischegemeindeosnabrueck,Jüdische Gemeinde Osnabrück K.d.ö.R.,NA,NA,D,NA,NA,NA,NA
+juedischegemeinderegensburg,Jüdische Gemeinde Regensburg,NA,NA,D,NA,NA,NA,NA
+juedischegemeindendresden,Jüdischen Gemeinden Sachsen K.d.ö.R,NA,NA,D,NA,NA,NA,NA
+jugendhilfehannover,Jugendhilfeplanung Hannover,NA,NA,D,NA,NA,NA,NA
+jugendwerkbirkeneck,Jugendwerk Stiftung der Herz-Jesu Missionare Birkeneck,NA,NA,D,NA,NA,NA,NA
+uniwuerzburg,Julius-Maximilians-Universität Würzburg,NA,NA,D,NA,NA,NA,NA
+gewerbearchiv,Juristische Fachzeitschrift Gewerbearchiv,NA,NA,D,NA,NA,NA,NA
+justizvollzuglandsberg,Justizvollzugsanstalt Landsberg,NA,NA,D,NA,NA,NA,NA
+kampnagel,Kampnagel - Internationales Zentrum für schönere Künste,NA,NA,D,NA,NA,NA,NA
+karlarnoldstiftung,Karl-Arnold-Stiftung,NA,NA,D,NA,NA,NA,NA
+kathaltenpflegeheimeeichsfeld,Katholische Altenpflegeheime Eichsfeld gGmbH,NA,NA,D,NA,NA,NA,NA
+kathkirchebremen,Katholische Kirche Bremen,NA,NA,D,NA,NA,NA,NA
+kathkircheniedersachsen,Katholische Kirche Niedersachsen,NA,NA,D,NA,NA,NA,NA
+katholischelandjugend,Katholische Landjugendbewegung (KLJB),NA,NA,D,NA,NA,NA,NA
+katholischestudentenverbindung,Katholische Studentenverbindungen,NA,NA,D,NA,NA,NA,NA
+universitaeteichstaett,Katholische Universität Eichstätt-Ingolstadt,NA,NA,D,NA,NA,NA,NA
+kdfb,Katholischer Deutscher Frauenbund e.V.,NA,NA,D,NA,NA,NA,NA
+kathmaennertuntenhausen,Katholischer Männerverein Tuntenhausen,NA,NA,D,NA,NA,NA,NA
+maedchenfrauensozialarbeit,Katholischer Verband für Mädchen – und Frauensozialarbeit,NA,NA,D,NA,NA,NA,NA
+agfwjugendhilfe,Kinder- und Jugendhilfe - Arbeitsgemeinschaft der Freien Wohlfahrtspflege,NA,NA,D,NA,NA,NA,NA
+kinderklinikgarmisch,Kinderklinik Garmisch-Partenkirchen gGmbH,NA,NA,D,NA,NA,NA,NA
+kinderschutzbundschleswig,Kinderschutzbund Region Schleswig,NA,NA,D,NA,NA,NA,NA
+evkitaverbandbayern,KITA-Verband Bayern e.V.,NA,NA,D,NA,NA,NA,NA
+stpaulusgymnasialkirche,Kleine Kirche (Osnabrück),NA,NA,D,NA,NA,NA,NA
+klinikkitzingerland,Klinik Kitizinger Land ,NA,NA,D,NA,NA,NA,NA
+klinikumhannover,Klinikum Region Hannover GmbH,NA,NA,D,NA,NA,NA,NA
+kloetznerwerbemittelservice,Klötzner-Werbemittel Service GmbH,NA,NA,D,NA,NA,NA,NA
+knapromediastiftunng,kna Promedia-Stiftung,NA,NA,D,NA,NA,NA,NA
+kneippbund,Kneipp-Bund e.V. - Bundesverband für Gesundheitsförderung und Prävention,NA,NA,D,NA,NA,NA,NA
+kav,Kommunalistischer Arbeitgeberverband (KAV) Niedersachsen,NA,NA,D,NA,NA,NA,NA
+komponistenorganisationen,Komponisten-Organisationen,NA,NA,D,NA,NA,NA,NA
+konradadenauerstiftung,Konrad-Adenauer-Stiftung e.V. ,NA,NA,D,NA,NA,NA,NA
+adenauerstiftungjury,Konrad-Adenauer-Stiftung Jury,NA,NA,D,NA,NA,NA,NA
+kreisratfreising,Kreisrat Freising,NA,NA,D,NA,NA,NA,NA
+kreisratwuerzburg,Kreisrat Würzburg,NA,NA,D,NA,NA,NA,NA
+kskkoeln,Kreissparkasse Köln,NA,NA,D,NA,NA,NA,NA
+kreisstadtdeggendorf,Kreisstadt Deggendorf,NA,NA,D,NA,NA,NA,NA
+kreistaghavelland,Kreistag Havelland,NA,NA,D,NA,NA,NA,NA
+kreistagkitzingen,Kreistag Kitzingen,NA,NA,D,NA,NA,NA,NA
+kreistaglandsberg,Kreistag Landsberg,NA,NA,D,NA,NA,NA,NA
+kreistagtf,Kreistag Teltow-Fläming (TF),NA,NA,D,NA,NA,NA,NA
+kriegerkameradschaftaichach,Krieger- und Soldatenkameradschaft Aichach,NA,NA,D,NA,NA,NA,NA
+kulturlandmeckpom,Kulturland Mecklenburg-Vorpommern,NA,NA,D,NA,NA,NA,NA
+kulturnetzkoeln,KulturNetz Köln,NA,NA,D,NA,NA,NA,NA
+landeskulturratmeckpom,Kulturrat Mecklenburg-Vorpommern,NA,NA,D,NA,NA,NA,NA
+kulturratnrw,Kulturrat NRW,NA,NA,D,NA,NA,NA,NA
+kulturstiftungdesbundes,Kulturstiftung des Bundes,NA,NA,D,NA,NA,NA,NA
+stiftungschlosswiepersdorf,Kulturstiftung Schloss Wiepersdorf,NA,NA,D,NA,NA,NA,NA
+kulturverbandsachsen,Kulturverband Sachsen,NA,NA,D,NA,NA,NA,NA
+ostdeutschegalerieregensburg,Kunstforum Ostdeutsche Galerie Regensburg,NA,NA,D,NA,NA,NA,NA
+kuenstlerbremen,Künstlerinnenverband Bremen,NA,NA,D,NA,NA,NA,NA
+kulturhofflensburg,Kutlurhof Flensburg,NA,NA,D,NA,NA,NA,NA
+kwa,KWA Kuratorium Wohnen im Alter gemeinnützige AG,NA,NA,D,NA,NA,NA,NA
+lagselbsthilfebayern,LAG Selbsthilfe Bayern e.V.,NA,NA,D,NA,NA,NA,NA
+lag,LAG Westliche Altmark,NA,NA,D,NA,NA,NA,NA
+landniedersachsen,Land Niedersachsen,NA,NA,D,NA,NA,NA,NA
+landschleswig,Land Schleswig-Holstein,NA,NA,D,NA,NA,NA,NA
+landfrauenmeckpom,Land-Frauenverband Mecklenburg-Vorpommern,NA,NA,D,NA,NA,NA,NA
+lagfwniedersachsen,Landesarbeitsgemeinschaft der freien Wohlfahrtspflege in Niedersachsen e.V.,NA,NA,D,NA,NA,NA,NA
+arbeitsgemeinschaftfamilienrw,Landesarbeitsgemeinschaft Familie NRW,NA,NA,D,NA,NA,NA,NA
+familienarbeiterwohlfahrtnrw,Landesarbeitsgemeinschaft Familien- und Weiterbildung der Arbeiterwohlfahrt NRW,NA,NA,D,NA,NA,NA,NA
+landesaerztekammerbayern,Landesärztekammer Bayern KdöR,NA,NA,D,NA,NA,NA,NA
+landesbehindertenratnrw,Landesbehindertenrat NRW,NA,NA,D,NA,NA,NA,NA
+lbb,Landesbeirat für Menschen mit Behinderungen Berlin und Brandenburg,NA,NA,D,NA,NA,NA,NA
+landesbuergschaftsausschussnrw,Landesbürgschaftsausschuss NRW,NA,NA,D,NA,NA,NA,NA
+elternratniedersachsen,Landeselternrat Niedersachsen,NA,NA,D,NA,NA,NA,NA
+gymnasienbayern,LandesElternVereinigung der Gymnasien in Bayern e.V,NA,NA,D,NA,NA,NA,NA
+lmb,Landesfachverband Medienbildung Brandenburg e.V.,NA,NA,D,NA,NA,NA,NA
+feuerwehrverbandbayern,LandesFeuerwehrverband Bayern e.V.,NA,NA,D,NA,NA,NA,NA
+feuerwehrverbandniedersachsen,Landesfeuerwehrverband Niedersachsen,NA,NA,D,NA,NA,NA,NA
+frauenratniedersachsen,Landesfrauenrat Niedersachsen e.V.,NA,NA,D,NA,NA,NA,NA
+landesfrauenratsa,Landesfrauenrat Sachsen-Anhalt,NA,NA,D,NA,NA,NA,NA
+lhrbrandenburg,Landeshochschulrat Brandenburg,NA,NA,D,NA,NA,NA,NA
+landesintegrationsratnrw,Landesintegrationsrat NRW,NA,NA,D,NA,NA,NA,NA
+landesjagdverbandnrw,Landesjagdverband NRW,NA,NA,D,NA,NA,NA,NA
+landesjagdverbandsachsenanhalt,Landesjagdverband Sachsen-Anhalt,NA,NA,D,NA,NA,NA,NA
+jugendringberlin,Landesjugendring Berlin und Brandenburg e.V.,NA,NA,D,NA,NA,NA,NA
+jugendringniedersachsen,Landesjugendring Niedersachsen e.V.,NA,NA,D,NA,NA,NA,NA
+landesjugendringnrw,Landesjugendring NRW,NA,NA,D,NA,NA,NA,NA
+lkrpberlin,Landeskonferenz der Rektor*innen und Präsident*innen der Berliner Hochschulen (LKRP),NA,NA,D,NA,NA,NA,NA
+musikratbb,Landesmusikrat Brandenburg und Berlin e.V.,NA,NA,D,NA,NA,NA,NA
+landesmusikratnrw,Landesmusikrat NRW,NA,NA,D,NA,NA,NA,NA
+musikratschleswig,Landesmusikrat Schleswig-Holstein,NA,NA,D,NA,NA,NA,NA
+landesmusikratbremen,Landesmusikrat Bremen,NA,NA,D,NA,NA,NA,NA
+naturschutzschleswig,Landesnaturschutzverband Schleswig-Holstein e.V. (LNV),NA,NA,D,NA,NA,NA,NA
+landespraeventionsratnrw,Landespräventionsrats Nordrhein-Westfalen,NA,NA,D,NA,NA,NA,NA
+eisenbahnniderbarnimer,Niederbarnimer Eisenbahn AG,NA,NA,D,NA,NA,NA,NA
+landesregierungsa,Landesregierung Sachsen-Anhalt,NA,NA,D,NA,NA,NA,NA
+landesregierungthueringen,Landesregierung Thüringen,NA,NA,D,NA,NA,NA,NA
+rektorenkonferenzhochschulennrw,Landesrektor_innenkonferenz der Hochschulen für Angewandte Wissenschaften,NA,NA,D,NA,NA,NA,NA
+rektorenkonferenzunisnrw,Landesrektorenkonferenz der Universitäten in NRW,NA,NA,D,NA,NA,NA,NA
+seniorenratniedersachsen,Landesseniorenrat Niedersachsen e.V.,NA,NA,D,NA,NA,NA,NA
+seniorenbremen,Landesseniorenvertretung Bremen,NA,NA,D,NA,NA,NA,NA
+landesseniorenvertretungnrw,Landesseniorenvertretung NRW,NA,NA,D,NA,NA,NA,NA
+landessozialgerichtessen,Landessozialgericht Essen,NA,NA,D,NA,NA,NA,NA
+landessportbundbremen,Landessportbund Bremen,NA,NA,D,NA,NA,NA,NA
+sportbundmeckpom,Landessportbund Mecklenburg-Vorpommern,NA,NA,D,NA,NA,NA,NA
+sportbundniedersachsen,LandesSportBund Niedersachsen e.V.,NA,NA,D,NA,NA,NA,NA
+landessportbundnrw,Landessportbund NRW,NA,NA,D,NA,NA,NA,NA
+landessportbundsachsen,Landessportbund Sachsen,NA,NA,D,NA,NA,NA,NA
+musglaubensgemeinschaft,Muslimische Glaubensgemeinschaft,NA,NA,D,NA,NA,NA,NA
+lhfn,"Landesstiftung ""Hilfen für Familien in Not""",NA,NA,D,NA,NA,NA,NA
+landesteilhaberat,Landesteilhaberat,NA,NA,D,NA,NA,NA,NA
+ltvsachsen,Landestourismusverband Sachsen,NA,NA,D,NA,NA,NA,NA
+juedischegemeinde,Landesverbaende der juedischen Gemeinden NRW,NA,NA,D,NA,NA,NA,NA
+lbuniedersachsen,Landesverband Bürgerinitiativen Umweltschutz Niedersachsen e.V.,NA,NA,D,NA,NA,NA,NA
+juedischegemeindenniedersachsen,Landesverband der Jüdischen Gemeinden von Niedersachsen,NA,NA,D,NA,NA,NA,NA
+migrantenorganisationensachsen,Landesverband der Migrantinnen Organisation Sachsen,NA,NA,D,NA,NA,NA,NA
+vhsverbandniedersachsen,Landesverband der Volkshochschulen Niedersachsens e.V.,NA,NA,D,NA,NA,NA,NA
+volkshochschulennrw,Landesverband der Volkshochschulen von NRW e.V.,NA,NA,D,NA,NA,NA,NA
+frauenberatungschleswig,Landesverband Frauenberatung Schleswig-Holstein e. V.,NA,NA,D,NA,NA,NA,NA
+deutscheranwaltvereinnrw,Landesverband NRW im Deutschen Anwaltverein,NA,NA,D,NA,NA,NA,NA
+bauwirtschaftniedersachsen,Landesvereinigung Bauwirtschaft Niedersachsen,NA,NA,D,NA,NA,NA,NA
+unternehmernrw,Landesvereinigung der Unternehmensverbände NRW,NA,NA,D,NA,NA,NA,NA
+verkehrswachtbayern,Landesverkehrswacht Bayern e.V.,NA,NA,D,NA,NA,NA,NA
+landesverkehrswachtsachsen,Landesverkehrswacht Sachsen e.V.,NA,NA,D,NA,NA,NA,NA
+landesweiterbildungsratnrw,Landesweiterbildungsrat NRW,NA,NA,D,NA,NA,NA,NA
+lpbbayern,Landeszentrale für politische Bildung Bayern,NA,NA,D,NA,NA,NA,NA
+landkreisaichach,Landkreis Aichach-Friedberg,NA,NA,D,NA,NA,NA,NA
+landkreisrhoengrabfeld,Landkreis Rhön-Grabfeld,NA,NA,D,NA,NA,NA,NA
+landkreistagnrw,Landkreistag NRW,NA,NA,D,NA,NA,NA,NA
+landkreistagsachsenanhalt,Landkreistag Sachsen-Anhalt,NA,NA,D,NA,NA,NA,NA
+landschaftsverbandnrw,Landschaftsverband NRW,NA,NA,D,NA,NA,NA,NA
+landtagbrandenburg,Landtag Brandenburg,NA,NA,D,NA,NA,NA,NA
+landtagmeckpom,Landtag Mecklenburg-Vorpommern,NA,NA,D,NA,NA,NA,NA
+landtagnrw,Landtag NRW,NA,NA,D,NA,NA,NA,NA
+landtagsachsen,Landtag Sachsen,NA,NA,D,NA,NA,NA,NA
+landtagsachsenanhalt,Landtag Sachsen-Anhalt,NA,NA,D,NA,NA,NA,NA
+landtagthueringen,Landtag Thüringen,NA,NA,D,NA,NA,NA,NA
+landwirtschaftlicherentenbank,Landwirtschaftliche Rentenbank,NA,NA,D,NA,NA,NA,NA
+landwirtschaftsverbaendenrw,Landwirtschaftsverbände NRW,NA,NA,D,NA,NA,NA,NA
+lausitzenergiebergbau,Lausitz Energie Bergbau AG,NA,NA,D,NA,NA,NA,NA
+lmbv,Lausitzer und Mitteldeutsche Bergbau-Verwaltungsgesellschaft,NA,NA,D,NA,NA,NA,NA
+leader,LEADER EU-Förderprogramm für ländlichen Raum,NA,NA,D,NA,NA,NA,NA
+leadershipberlin,leadership Berlin e. V.,NA,NA,D,NA,NA,NA,NA
+lebenshilfeaachen,Lebenshilfe Aachen Werkstätten & Service,NA,NA,D,NA,NA,NA,NA
+lebenshilfeberlin,Lebenshilfe Berlin,NA,NA,D,NA,NA,NA,NA
+lebenshilfenrw,Lebenshilfe NRW,NA,NA,D,NA,NA,NA,NA
+leipzigerdokfilmwochen,Leipziger Dok-Filmwochen GmbH,NA,NA,D,NA,NA,NA,NA
+lgh,Leipziger Gewerbehof GmbH & Co.KG,NA,NA,D,NA,NA,NA,NA
+verkehrsbetriebeleipzig,Leipziger Verkehrsbetriebe mbH,NA,NA,D,NA,NA,NA,NA
+versorgungverkehrleipzig,Leipziger Versorgungs- und Verkehrsgesellschaft mbH,NA,NA,D,NA,NA,NA,NA
+leonhardfrankgesellschaft,Leonhard Frank Gesellschaft,NA,NA,D,NA,NA,NA,NA
+lesbenschwulenverband,Lesben- und Schwulenverband,NA,NA,D,NA,NA,NA,NA
+leuchtstoffwerkbreitungen,Leuchtstoffwerk Breitungen GmbH,NA,NA,D,NA,NA,NA,NA
+foerderbankbayern,LfA Förderbank Bayern,NA,NA,D,NA,NA,NA,NA
+ligabb,Liga der Spitzenverbände der Freien Wohlfahrtspflege in Berlin und Brandenburg,NA,NA,D,NA,NA,NA,NA
+ligameckpom,LIGA MV,NA,NA,D,NA,NA,NA,NA
+lippischerheimatbund,Lippischer Heimatbund,NA,NA,D,NA,NA,NA,NA
+literaturratnrw,LiteraturRat NRW,NA,NA,D,NA,NA,NA,NA
+buendnisfamilien,Lokale Bündnisse für Familie,NA,NA,D,NA,NA,NA,NA
+lottototosa,Lotto-Toto Sachsen-Anhalt,NA,NA,D,NA,NA,NA,NA
+lsbbrandenburg,LSB Brandenburg e.V,NA,NA,D,NA,NA,NA,NA
+lsvdsa,LSVD Sachsen-Anhalt e.V.,NA,NA,D,NA,NA,NA,NA
+lsdvbb,LSVD Verband Queere Vielfalt Berlin-Brandenburg e.V.,NA,NA,D,NA,NA,NA,NA
+macromedia,Macromedia University (privat),NA,NA,D,NA,NA,NA,NA
+malteserdeggendorf,Malteser im Landkreis Deggendorf,NA,NA,D,NA,NA,NA,NA
+marzahnertor,Marzahner Tor e.G,NA,NA,D,NA,NA,NA,NA
+matzautoteile,Matz Autoteile GmbH,NA,NA,D,NA,NA,NA,NA
+maxgallingerstiftung,Max-Gallinger-Stiftung,NA,NA,D,NA,NA,NA,NA
+mcchallemuensterland,MCC Halle Münsterland,NA,NA,D,NA,NA,NA,NA
+medizinischediensteniedersachsen,MD Niedersachsen,NA,NA,D,NA,NA,NA,NA
+medizinischerdienstnord,MD Nord,NA,NA,D,NA,NA,NA,NA
+medienbayerngmbh,Medien Bayern GmbH,NA,NA,D,NA,NA,NA,NA
+nordestedtmbh,Mehrzwecksäle Norderstedt GmbH,NA,NA,D,NA,NA,NA,NA
+meilertharandt,Meiler Tharandt e.V. ,NA,NA,D,NA,NA,NA,NA
+meravisimmobilien,Meravis Wohnungsbau und Immobilien,NA,NA,D,NA,NA,NA,NA
+metallelektroindustriesa,Metall- und Elektroindustrie Sachsen-Anhalt,NA,NA,D,NA,NA,NA,NA
+metropolregionrheinland,Metropolregion Rheinland,NA,NA,D,NA,NA,NA,NA
+mietervereinflensburg,Mieterverein Flensburg e.V.,NA,NA,D,NA,NA,NA,NA
+migrantenbeiratpotsdam,Migrantenbeirat Potsdam,NA,NA,D,NA,NA,NA,NA
+mittelbayerischerverlag,Mittelbayerischer Verlag KG,NA,NA,D,NA,NA,NA,NA
+mibraburgsparkasse,Mittelbrandenburgerische Sparkasse,NA,NA,D,NA,NA,NA,NA
+mz,Mitteldeutsche Zahntechnik,NA,NA,D,NA,NA,NA,NA
+mittelstaendischebeteiligungsgesellschaft,Mittelständische Beteiligungsgesellschaft,NA,NA,D,NA,NA,NA,NA
+mittelstandsundwirtschaftsunionsachsen,Mittelstands- und Wirtschaftsunion Sachsen,NA,NA,D,NA,NA,NA,NA
+mittelstandsvereinbm,Mittelstandverein Blankenfelde-Mahlow,NA,NA,D,NA,NA,NA,NA
+mobit,Mobit e.V. ,NA,NA,D,NA,NA,NA,NA
+filmfoerderunghamburg,MOIN Filmförderung Hamburg Schleswig-Holstein,NA,NA,D,NA,NA,NA,NA
+motorsportclubnuernberg,Motorsportclub Nürnberg,NA,NA,D,NA,NA,NA,NA
+msvneuruppin,MSV Neuruppin e.V ,NA,NA,D,NA,NA,NA,NA
+mtvingolstadt,MTV 1881 Ingolstadt e.V.,NA,NA,D,NA,NA,NA,NA
+mvkiel,Müllverbrennung Kiel,NA,NA,D,NA,NA,NA,NA
+universitaetsgesellschaftmuenchen,Münchner Universitätsgesellschaft,NA,NA,D,NA,NA,NA,NA
+muslimischesseelsorgetel,Muslimisches SeelsorgeTelefon,NA,NA,D,NA,NA,NA,NA
+naturfreunde,Naturfreunde Internationale,NA,NA,D,NA,NA,NA,NA
+naturschutznrw,Naturschutzvereinigungen NRW,NA,NA,D,NA,NA,NA,NA
+naturstiftungdavid,Naturstiftung David,NA,NA,D,NA,NA,NA,NA
+netcologne,NetCologne Gesellschaft für Telekommunikation mbH,NA,NA,D,NA,NA,NA,NA
+netzwerkfilmkulturnrw,Netzwerk Filmkultur NRW.,NA,NA,D,NA,NA,NA,NA
+netzwerkmek,Netzwerk Metall Elektro Kunststoff Burgenlandkreis,NA,NA,D,NA,NA,NA,NA
+rassismusfreiesbayern,Netzwerk Rassismus- und Diskriminierungsfreies Bayern e.V.,NA,NA,D,NA,NA,NA,NA
+ndm,Neue deutsche Medienmacher*innen e.V,NA,NA,D,NA,NA,NA,NA
+erwachsenenbildungniedersachsen,Niedersächsischer Bund für freie Erwachsenenbildung e.V.,NA,NA,D,NA,NA,NA,NA
+integrationsratniedersachsen,Niedersächsischer Integrationsrat,NA,NA,D,NA,NA,NA,NA
+landtagniedersachsen,Niedersächsischer Landtag,NA,NA,D,NA,NA,NA,NA
+schachniedersachsen,Niedersächsischer Schachverband,NA,NA,D,NA,NA,NA,NA
+staedteundgemeindebundniedersachsen,Niedersächsischer Städte- und Gemeindebund (NSGB),NA,NA,D,NA,NA,NA,NA
+nordakademie,Nordakademie Hochschule für Wirtschaft,NA,NA,D,NA,NA,NA,NA
+nordmetall,Nordmetall,NA,NA,D,NA,NA,NA,NA
+nordmetallverband,Nordmetall Verband der Metall- und Elektroindustrie e.V.,NA,NA,D,NA,NA,NA,NA
+nrwstiftung,NRW-Stiftung,NA,NA,D,NA,NA,NA,NA
+stiftungnaturschutznrw,NRW-Stiftung Naturschutz,NA,NA,D,NA,NA,NA,NA
+nuernbergerversicherung,Nürnberger Versicherung,NA,NA,D,NA,NA,NA,NA
+obdachlosenhilfebayern,Obdachlosenhilfe Bayern,NA,NA,D,NA,NA,NA,NA
+oberfrankenoffensiv,Oberfranken Offensiv e.V. ,NA,NA,D,NA,NA,NA,NA
+oberhavelkliniken,Oberhavel-Kliniken,NA,NA,D,NA,NA,NA,NA
+oberlinhaus,Oberlinhaus Potsdam,NA,NA,D,NA,NA,NA,NA
+klinikenpsychiatrie,Ökumenische Kliniken für Psychiatrie gGmbH,NA,NA,D,NA,NA,NA,NA
+operleipzig,Oper Leipzig e.V.,NA,NA,D,NA,NA,NA,NA
+ostsaechsischensparkassedresden,Ostsächsische Sparkasse Dresden,NA,NA,D,NA,NA,NA,NA
+universitaetbamberg,Otto-Friedrich-Universität Bamberg,NA,NA,D,NA,NA,NA,NA
+passageggmbh,PASSAGE gemeinnützige Gesellschaft für Arbeit und Integration mbH,NA,NA,D,NA,NA,NA,NA
+paulklingerkuenstlersozialnetzwerk,Paul Klinger Künstlersozialnetzwerk,NA,NA,D,NA,NA,NA,NA
+penberlin,PEN Berlin,NA,NA,D,NA,NA,NA,NA
+burschenschaftsaxonia,Pennale Burschenschaft Saxonia-Czernowitz zu München,NA,NA,D,NA,NA,NA,NA
+peterhammerverlag,Peter Hammer Verlag,NA,NA,D,NA,NA,NA,NA
+pfarrgemeinschaftbarbing,Pfarrgemeinschaft Barbing,NA,NA,D,NA,NA,NA,NA
+pwpberlin,Pilz Wesser & Partner Rechtsanwälte mbB,NA,NA,D,NA,NA,NA,NA
+plattdueuetscherat,Plattdüütsche Rat för dat Land Bremen,NA,NA,D,NA,NA,NA,NA
+buergerenergiegenossenschaftpreetz,Preetzer Bürgerenergiegenossenschaft (PreBEG),NA,NA,D,NA,NA,NA,NA
+proberuf,Pro Beruf GmbH,NA,NA,D,NA,NA,NA,NA
+profem,ProFem,NA,NA,D,NA,NA,NA,NA
+elternerziehernrw,Progressiver Eltern- u. Erzieher*innen-Verband NRW,NA,NA,D,NA,NA,NA,NA
+queenelisbabethmusiccompetition,Queen Elisabeth International Music Competition (Belgien),NA,NA,D,NA,NA,NA,NA
+quueresnetzwerknrw,Queeres Netzwerk NRW,NA,NA,D,NA,NA,NA,NA
+quintfilms,Quint Film- und Fernsehproduktion GmbH,NA,NA,D,NA,NA,NA,NA
+ragimmobilien,RAG Montan Immobilien,NA,NA,D,NA,NA,NA,NA
+ratderstadtkoeln,Rat der Stadt Köln,NA,NA,D,NA,NA,NA,NA
+ratundtat,Rat und Tat Zentrum für queeres Leben,NA,NA,D,NA,NA,NA,NA
+partgmbh,Rechtsanwälte PART GmbH,NA,NA,D,NA,NA,NA,NA
+regierungoberpfalz,Regierung von Oberpfalz,NA,NA,D,NA,NA,NA,NA
+regionhannover,Region Hannover,NA,NA,D,NA,NA,NA,NA
+reichsbundstiftung,Reichsbund Stiftung,NA,NA,D,NA,NA,NA,NA
+rheinischeredaktionsgemeinschaft,Rheinische Redaktionsgemeinschaft,NA,NA,D,NA,NA,NA,NA
+denkmalpflegelandschaftsschutz,Rheinischer Verein für Denkmalpflege und Landschaftsschutz,NA,NA,D,NA,NA,NA,NA
+rhenusfreightlogistics,Rhenus Freight Logistics,NA,NA,D,NA,NA,NA,NA
+robinwood,ROBIN WOOD e.V.,NA,NA,D,NA,NA,NA,NA
+rosnerseidlstiftung,Rosner & Seidl Stiftung,NA,NA,D,NA,NA,NA,NA
+hausundgrundvereinrostock,Rostocker Haus- und Grundeigentümerverein e.V.,NA,NA,D,NA,NA,NA,NA
+rcneuruppin,Rotary Club Neuruppin e.V,NA,NA,D,NA,NA,NA,NA
+ruhrpressekonferenz,Ruhrpressekonferenz,NA,NA,D,NA,NA,NA,NA
+aufbaubanksachsen,Sächsische Aufbaubank,NA,NA,D,NA,NA,NA,NA
+sht,Sächsischer Handwerkstag e.V. ,NA,NA,D,NA,NA,NA,NA
+saechsischerheimatschutz,Sächsischer Heimatschutz e.V. ,NA,NA,D,NA,NA,NA,NA
+kultursenatsachsen,Sächsischer Kultursenat,NA,NA,D,NA,NA,NA,NA
+samtgemeindeharsefeld,Samtgemeinde Harsefeld,NA,NA,D,NA,NA,NA,NA
+scdhfkleipzig,SC DHfK Leipzig e.V. ,NA,NA,D,NA,NA,NA,NA
+schlichtungsstellenahverkehr,Schlichtungsstelle Nahverkehr,NA,NA,D,NA,NA,NA,NA
+schulausschussgifhorn,Schulausschuss Gifhorn,NA,NA,D,NA,NA,NA,NA
+dorfundlandentwicklungthierhaupten,Schule der Dorf- und Landentwicklung Thierhaupten,NA,NA,D,NA,NA,NA,NA
+schuetzenverein,Schützenverein,NA,NA,D,NA,NA,NA,NA
+schutzgemeinschaftwald,Schutzgemeinschaft Deutscher Wald Duisburg,NA,NA,D,NA,NA,NA,NA
+sclsportclub,SCL Sportclub Lebenshilfe Berlin e.V.,NA,NA,D,NA,NA,NA,NA
+integrationssenat,Senat für Integration und Migration,NA,NA,D,NA,NA,NA,NA
+seninsport,Senatsverwaltung für Inneres und Sport - Berlin,NA,NA,D,NA,NA,NA,NA
+senkultgz,Senatsverwaltung für Kultur und Gesellschaftlichen Zusammenhalt,NA,NA,D,NA,NA,NA,NA
+kulturschmiedesendlingen,Sendlinger Kulturschmiede e.V.,NA,NA,D,NA,NA,NA,NA
+seniorenbeiratrheda,Seniorenbeirat der Stadt Rheda-Wiedenbrück,NA,NA,D,NA,NA,NA,NA
+signalidunakv,Signal Iduna Krankenversicherung e.G. ,NA,NA,D,NA,NA,NA,NA
+signaliduna,Signal Iduna Versicherung,NA,NA,D,NA,NA,NA,NA
+smartlivinigandhealthcenter,Smart Living & Health Center e. V.,NA,NA,D,NA,NA,NA,NA
+soroptimistpassau,Soroptimist Club Passau,NA,NA,D,NA,NA,NA,NA
+sovdniedersachsen,SoVD-Landesverband Niedersachsen e.V.,NA,NA,D,NA,NA,NA,NA
+sozialfondkoelnerjournalisten,Sozialfond Kölner Journalisten,NA,NA,D,NA,NA,NA,NA
+sozialstiftungnrw,Sozialstiftung NRW,NA,NA,D,NA,NA,NA,NA
+sozialverbanddeutschland,Sozialverband Deutschland,NA,NA,D,NA,NA,NA,NA
+vdksozialverband,Sozialverband VdK Deutschland,NA,NA,D,NA,NA,NA,NA
+sozialverbandvdknrw,Sozialverband VdK NRW,NA,NA,D,NA,NA,NA,NA
+sparkassealtmarkwest,Sparkasse Altmark West,NA,NA,D,NA,NA,NA,NA
+sparkassebayern,Sparkasse Bayern,NA,NA,D,NA,NA,NA,NA
+sparkasselandshut,Sparkasse Landshut,NA,NA,D,NA,NA,NA,NA
+sparkasseleipzig,Sparkasse Leipzig,NA,NA,D,NA,NA,NA,NA
+sparkassememmingen,Sparkasse Memmingen-Lindau-Mindelheim,NA,NA,D,NA,NA,NA,NA
+spdhamburg,SPD Hamburg,NA,NA,D,NA,NA,NA,NA
+spdmeckpom,SPD Mecklenburg-Vorpommern,NA,NA,D,NA,NA,NA,NA
+spdniedersachsen,SPD Niedersachsen,NA,NA,D,NA,NA,NA,NA
+spitzenverbaendebb,Spitzenverbände Berlin und Brandenburg,NA,NA,D,NA,NA,NA,NA
+sportparkrabenberg,Sportpark Rabenberg e.V. ,NA,NA,D,NA,NA,NA,NA
+sportstiftungnrw,Sportstiftung NRW,NA,NA,D,NA,NA,NA,NA
+staatsregierungbayern,Staatsregierung Bayern,NA,NA,D,NA,NA,NA,NA
+stadterlangen,Stadt Erlangen,NA,NA,D,NA,NA,NA,NA
+stadtflensburg,Stadt Flensburg,NA,NA,D,NA,NA,NA,NA
+stadtfreyung,Stadt Freyung Veranstaltungs gGmbH,NA,NA,D,NA,NA,NA,NA
+stadtgrossenkneten,Stadt Großenkneten,NA,NA,D,NA,NA,NA,NA
+stadtjena,Stadt Jena,NA,NA,D,NA,NA,NA,NA
+stadtkiel,Stadt Kiel,NA,NA,D,NA,NA,NA,NA
+stadtlandshut,Stadt Landshut,NA,NA,D,NA,NA,NA,NA
+stadtneumarkt,Stadt Neumarkt i.d. OPf.,NA,NA,D,NA,NA,NA,NA
+stadtnuernberg,Stadt Nürnberg,NA,NA,D,NA,NA,NA,NA
+stadtpreetz,Stadt Preetz,NA,NA,D,NA,NA,NA,NA
+stadtwuerzburg,Stadt Würzburg,NA,NA,D,NA,NA,NA,NA
+stadtbaudeggendorf,Stadtbau Deggendorf GmbH,NA,NA,D,NA,NA,NA,NA
+stadtbauundwohnungsglauchau,Stadtbau- und Wohnungsgesellschaft mbH Glauchau,NA,NA,D,NA,NA,NA,NA
+stadtbaukulturnrw,StadtBauKultur des Landes NRW,NA,NA,D,NA,NA,NA,NA
+staedteundgemeindebundnrw,Städte- und Gemeindebund NRW,NA,NA,D,NA,NA,NA,NA
+stadtentsorgungrostock,Stadtentsorgung Rostock GmbH,NA,NA,D,NA,NA,NA,NA
+staedtetagnrw,Städtetag NRW,NA,NA,D,NA,NA,NA,NA
+bremerhavenstadt,Stadtgemeinde Bremerhaven,NA,NA,D,NA,NA,NA,NA
+stadthallendeggendorf,Stadthallen Deggendorf GmbH,NA,NA,D,NA,NA,NA,NA
+stadtparkendeggendorf,Stadtparken Deggendorf GmbH,NA,NA,D,NA,NA,NA,NA
+stadtrat,Stadtrat,NA,NA,D,NA,NA,NA,NA
+stadtratglauchau,Stadtrat Glauchau,NA,NA,D,NA,NA,NA,NA
+stadtratleipzig,Stadtrat Leipzig,NA,NA,D,NA,NA,NA,NA
+stadtratnordhausen,Stadtrat Nordhausen,NA,NA,D,NA,NA,NA,NA
+stadtratochsenfurt,Stadtrat Ochsenfurt,NA,NA,D,NA,NA,NA,NA
+sportbundbraunschweig,Stadtsportbund Braunschweig e.V.,NA,NA,D,NA,NA,NA,NA
+stadtjuetebog,Stadtverordnetenversammlung Jüterbog,NA,NA,D,NA,NA,NA,NA
+stadtrathenow,Stadtverordnetenversammlung Rathenow,NA,NA,D,NA,NA,NA,NA
+stadtverwaltungnaumburg,Stadtverwaltung Naumburg,NA,NA,D,NA,NA,NA,NA
+stadtwerkedeggendorf,Stadtwerke Deggendorf GmbH,NA,NA,D,NA,NA,NA,NA
+stadtwerkeglauchau,Stadtwerke Glauchau GmbH,NA,NA,D,NA,NA,NA,NA
+stanglmeierstiftung,Stanglmeier Stiftung,NA,NA,D,NA,NA,NA,NA
+steuerberaterverbandhamburg,Steuerberaterverband Hamburg e. V.,NA,NA,D,NA,NA,NA,NA
+steuerberatervereinnrw,Steuerberaterverein NRW,NA,NA,D,NA,NA,NA,NA
+kinderhospizmuenchen,Stiftung Ambulantes Kinderhospiz München,NA,NA,D,NA,NA,NA,NA
+stiftungamerikahausbayern,Stiftung Bayerisches Amerikahaus GmbH,NA,NA,D,NA,NA,NA,NA
+stiftungbildungsaspektbayern,Stiftung Bildungsaspekt Bayern,NA,NA,D,NA,NA,NA,NA
+stiftungbornplatzsynagoge,Stiftung Bornplatzsynagoge,NA,NA,D,NA,NA,NA,NA
+stiftungmbs,Stiftung der Mittelbrandenburgischen Sparkasse (MBS) ,NA,NA,D,NA,NA,NA,NA
+stiftungentwicklung,Stiftung Entwicklung und Frieden,NA,NA,D,NA,NA,NA,NA
+stiftunginternationalerstudentenaustausch,Stiftung für internationalen Studentenaustausch,NA,NA,D,NA,NA,NA,NA
+stiftungfussballkultur,Stiftung Fußball und Kultur,NA,NA,D,NA,NA,NA,NA
+garnisonkirchepotsdam,Stiftung Garnisonkirche Potsdam,NA,NA,D,NA,NA,NA,NA
+stiftunggroenauerheide,Stiftung Grönauer Heide,NA,NA,D,NA,NA,NA,NA
+stiftungjugend,Stiftung Jugend,NA,NA,D,NA,NA,NA,NA
+stiftungkonzerthaus,Stiftung Konzerthaus München,NA,NA,D,NA,NA,NA,NA
+stiftungnaturschutzschleswig,Stiftung Naturschutz Schleswig-Holstein,NA,NA,D,NA,NA,NA,NA
+stiftungneueskonzerthaus,Stiftung Neues Konzerthaus,NA,NA,D,NA,NA,NA,NA
+stiftunggedenkstaettenniedersachsen,Stiftung niedersächsische Gedenkstätten,NA,NA,D,NA,NA,NA,NA
+stiftungopferhilfeniedersachsen,Stiftung Opferhilfe Niedersachsen,NA,NA,D,NA,NA,NA,NA
+stiftungsporthilfesachsen,Stiftung Sporthilfe Sachsen,NA,NA,D,NA,NA,NA,NA
+stiftungwertebuendnisbayern,Stiftung Wertebündnis Bayern,NA,NA,D,NA,NA,NA,NA
+stiftungwestfaelischekultur,Stiftung Westfälische Kulturlandschaft,NA,NA,D,NA,NA,NA,NA
+stiftunglandschaftwestfalen,Stiftung Westfälische Landschaft,NA,NA,D,NA,NA,NA,NA
+stiftungzukunftberlin,Stiftung Zukunft für Berlin,NA,NA,D,NA,NA,NA,NA
+foerderstiftungessayistik,Stiftung zur Förderung der Essayistik,NA,NA,D,NA,NA,NA,NA
+stromnetzberlin,Stromnetz Berlin,NA,NA,D,NA,NA,NA,NA
+sudetenlandsmannschaft,Sudetendeutsche Landsmannschaft,NA,NA,D,NA,NA,NA,NA
+taz,taz,NA,NA,D,NA,NA,NA,NA
+thaugsburg,Technische Hochschule Augsburg,NA,NA,D,NA,NA,NA,NA
+telefonicagermany,Telefónica Germany GmbH & Co. OHG,NA,NA,D,NA,NA,NA,NA
+telseelsorgemeckpom,TelefonSeelsorge Mecklenburg-Vorpommern,NA,NA,D,NA,NA,NA,NA
+theaterbonn,Theater der Stadt Bonn,NA,NA,D,NA,NA,NA,NA
+theaterschondorf,Theater Schondorf e.V.,NA,NA,D,NA,NA,NA,NA
+thueringerchorverband,Thüringer Chorverband e.V.,NA,NA,D,NA,NA,NA,NA
+thueringerehrenamtsstiftung,Thüringer Ehrenamtsstiftung,NA,NA,D,NA,NA,NA,NA
+tlbg,Thüringer Landesamt für Bodenmanagement und Geoinformation,NA,NA,D,NA,NA,NA,NA
+sbsthueringen,Thüringer Stiftung Hilfe für blinde und sehbehinderte Menschen,NA,NA,D,NA,NA,NA,NA
+ttg,Thüringer Tourismus Gesellschaft,NA,NA,D,NA,NA,NA,NA
+tourismusallgaeu,Tourismusverband Allgäu/Bayerisch-Schwaben,NA,NA,D,NA,NA,NA,NA
+landesmusikakademienrw,Trägerverein Landesmusikakademie NRW,NA,NA,D,NA,NA,NA,NA
+juedischegrundschule,Trägervereins der jüdischen Lauder Morijah Grundschule Köln,NA,NA,D,NA,NA,NA,NA
+traegerwerksozialedienste,Trägerwerk Soziale Dienste AG,NA,NA,D,NA,NA,NA,NA
+trinkwasserstaderland,Trinkwasserverband Stader Land,NA,NA,D,NA,NA,NA,NA
+trustedshops,Trusted Shops,NA,NA,D,NA,NA,NA,NA
+tsvstmagnus,TSV St. Magnus e.V.,NA,NA,D,NA,NA,NA,NA
+ueberlandwerkeglauchau,Überlandwerke Glauchau GmbH,NA,NA,D,NA,NA,NA,NA
+ulrichgesslerstiftung,Ulrich-Gessler-Stiftung Nürnberg,NA,NA,D,NA,NA,NA,NA
+umweltministeriumniedersachsen,Umweltministerium Niedersachsen,NA,NA,D,NA,NA,NA,NA
+unicefberlin,Unicef Berlin,NA,NA,D,NA,NA,NA,NA
+unitymedianrw,Unitymedia NRW,NA,NA,D,NA,NA,NA,NA
+unibremen,Universität Bremen,NA,NA,D,NA,NA,NA,NA
+universitaetosnabrueck,Universität Osnabrück,NA,NA,D,NA,NA,NA,NA
+universitaetsbundwuerzburg,Universitätsbund Würzburg,NA,NA,D,NA,NA,NA,NA
+uvb,Unternehmensverbände Berlin-Brandenburg (UVB),NA,NA,D,NA,NA,NA,NA
+handwerkniedersachsen,Unternehmensverbände Handwerk Niedersachsen e.V.,NA,NA,D,NA,NA,NA,NA
+unternehmensverbaendeniedersachsen,Unternehmerverbände Niedersachsen e.V.,NA,NA,D,NA,NA,NA,NA
+vberlinbrandenburg,VBB- Aufsichtsrat Verkehrsbund Berlin-Brandenburg ,NA,NA,D,NA,NA,NA,NA
+verdiberlin,ver.di Berlin-Brandenburg,NA,NA,D,NA,NA,NA,NA
+verdihamburg,ver.di Hamburg,NA,NA,D,NA,NA,NA,NA
+verdinrw,ver.di Landesbezirk NRW,NA,NA,D,NA,NA,NA,NA
+zeitungsverlegerbayern,Verband Bayerischer Zeitungsverleger (VBZV),NA,NA,D,NA,NA,NA,NA
+berufstaetigemuetter,Verband berufstätiger Mütter,NA,NA,D,NA,NA,NA,NA
+pfadfinderniedersachsen,Verband Christlicher Pfadfinder*innen Niedersachsen,NA,NA,D,NA,NA,NA,NA
+feuerwehrennrw,Verband der Feuerwehren in NRW,NA,NA,D,NA,NA,NA,NA
+filmverbandnrw,"Verband der Film-, Fernseh- und Videowirtschaft NRW",NA,NA,D,NA,NA,NA,NA
+verbandwirtschaftslehrer,Verband der Lehrer an Wirtschaftsschulen,NA,NA,D,NA,NA,NA,NA
+vwt,Verband der Wirtschaft Thüringens e.V. ,NA,NA,D,NA,NA,NA,NA
+deutscheschriftsteller,Verband deutscher Schriftstellerinnen und Schriftsteller,NA,NA,D,NA,NA,NA,NA
+verbandfreieberufenrw,Verband Freier Berufe im Lande NRW,NA,NA,D,NA,NA,NA,NA
+verbandfreierberufebayern,Verband Freier Berufe in Bayern e.V.,NA,NA,D,NA,NA,NA,NA
+verbandfreierberufehamburg,Verband freier Berufe in der Freien Hansestadt Hamburg e.V.,NA,NA,D,NA,NA,NA,NA
+kinderreichefamilien,Verband kinderreicher Familien Deutschland,NA,NA,D,NA,NA,NA,NA
+verbraucherzentralehamburg,Verbraucherzentrale Hamburg,NA,NA,D,NA,NA,NA,NA
+verbrauchernrw,Verbraucherzentrale NRW,NA,NA,D,NA,NA,NA,NA
+arbeitlebensachsen,Verein Arbeit und Leben Sachsen e.V. ,NA,NA,D,NA,NA,NA,NA
+fischereiundgewaesserpflege,Verein für Fischerei und Gewässepflege,NA,NA,D,NA,NA,NA,NA
+kulturerbebayern,Verein Kulturerbe Bayern e.V.,NA,NA,D,NA,NA,NA,NA
+vereinstudentenhilfe,Verein Studentenhilfe e.V.,NA,NA,D,NA,NA,NA,NA
+stiftunggeorgschulhoff,Verein zur Förderung der beruflichen Bildung Stiftung Georg-Schulhoff-Preis,NA,NA,D,NA,NA,NA,NA
+staedtepartnerschaftkoelnbarcelona,Verein zur Förderung der Städtepartnerschaft Köln/Barcelona,NA,NA,D,NA,NA,NA,NA
+vereinkrebskrankekinderbayern,Verein zur Förderung krebskranker und körperbehinderter Kinder Ostbayern e.V.,NA,NA,D,NA,NA,NA,NA
+vdgg,Vereinigung der Deutsch-Griechischen Gesellschaften e.V. (VDGG),NA,NA,D,NA,NA,NA,NA
+vossachsen,Vereinigung der Opfer des Stalinismus Sachsen,NA,NA,D,NA,NA,NA,NA
+uvnord,Vereinigung der Unternehmensverbände in Hamburg und Schleswig-Holstein,NA,NA,D,NA,NA,NA,NA
+unternehmensverbaendemeckpom,Vereinigung der Unternehmensverbände Mecklenburg-Vorpommern (VU),NA,NA,D,NA,NA,NA,NA
+verdi,vereinte Dienstleistungsgewerkschaft,NA,NA,D,NA,NA,NA,NA
+verkehrsclubdeutschland,Verkehrsclub Deutschland e.V.,NA,NA,D,NA,NA,NA,NA
+vos,Verkehrsgemeinschaft Osnabrück,NA,NA,D,NA,NA,NA,NA
+verlagsanstalthandwerk,Verlangsanstalt Handwerk,NA,NA,D,NA,NA,NA,NA
+versicherungskammerbayern,Versicherungskammer Bayern,NA,NA,D,NA,NA,NA,NA
+vakberlin,Verwaltungsakademie des Landes Berlin,NA,NA,D,NA,NA,NA,NA
+vgwort,Verwertungsgesellschaft WORT,NA,NA,D,NA,NA,NA,NA
+virtuellehochschulebayern,Virtuelle Hochschule Bayern,NA,NA,D,NA,NA,NA,NA
+vhskassel,Volkhochschule Region Kassel,NA,NA,D,NA,NA,NA,NA
+volkshaus,Volkshaus Karl Hölkeskamp & Co,NA,NA,D,NA,NA,NA,NA
+vhsdeggendorferland,Volkshochschule Deggendorfer Land e. V.,NA,NA,D,NA,NA,NA,NA
+vhsebersberger,Volkshochschule Ebersberger,NA,NA,D,NA,NA,NA,NA
+vhsnrw,Volkshochschulen NRW,NA,NA,D,NA,NA,NA,NA
+vvnbdarostock,VVN-BdA e.V. Rostock,NA,NA,D,NA,NA,NA,NA
+wirtschaftsvereinigungbayern,vwb - Vereinigung der Bayerischen Wirtschaft e.V.,NA,NA,D,NA,NA,NA,NA
+wassersportbremen,Wassersportverein Bremer Schweiz,NA,NA,D,NA,NA,NA,NA
+wasserversorgungbayerischerwald,Wasserversorgung Bayerischer Wald,NA,NA,D,NA,NA,NA,NA
+wasserwerkderzukunft,Wasserwerk der Zukunft e.V. Malchin,NA,NA,D,NA,NA,NA,NA
+wdrmediagroup,WDR mediagroup GmbH,NA,NA,D,NA,NA,NA,NA
+westfaelischerheimatbund,Westfälischer Heimatbund,NA,NA,D,NA,NA,NA,NA
+wicegmbh,WICE GmbH,NA,NA,D,NA,NA,NA,NA
+widenthecircle,"Widen the Circle, Obermayer Foundation",NA,NA,D,NA,NA,NA,NA
+wildtierbiotopschutznrw,Wildtier- und Biotopschutzstiftung NRW,NA,NA,D,NA,NA,NA,NA
+wiberlin,Willkommen in Berlin e. V.: Diplomatenclub beim Auswärtigen Amt,NA,NA,D,NA,NA,NA,NA
+wirtschaftsjuniorennrw,Wirtschaftsjunioren NRW,NA,NA,D,NA,NA,NA,NA
+fcviktoria,Wirtschaftsrat FC Viktoria Köln,NA,NA,D,NA,NA,NA,NA
+wohnungsgesellschafthettstadt,Wohnungsgesellschaft Hettstadt,NA,NA,D,NA,NA,NA,NA
+wuestenrot,Wüstenrot,NA,NA,D,NA,NA,NA,NA
+youngamerica,Young America's Foundation,NA,NA,D,NA,NA,NA,NA
+kommunalmagazin,Zeitschrift Kommunal,NA,NA,D,NA,NA,NA,NA
+zentraldombau,Zentral-Dombau-Verein,NA,NA,D,NA,NA,NA,NA
+zentrumtuerkeistudien,Zentrum für Türkeistudien,NA,NA,D,NA,NA,NA,NA
+zirkusgiovanni,Zirkus Giovanni des Don Bosco Jugendwerks Bamberg,NA,NA,D,NA,NA,NA,NA
+zontaclubkoeln,Zonta Club Köln,NA,NA,D,NA,NA,NA,NA
+zukunftsforumfamilie,Zukunftsforum Familie,NA,NA,D,NA,NA,NA,NA
+zvnl,Zweckverband für den Nahverkehr Leipzig,NA,NA,D,NA,NA,NA,NA
+advofleet,Advofleet Business Service GmbH,NA,NA,D,NA,NA,NA,NA
+hsstiftung,Hanns-Seidel-Stiftung,NA,NA,D,NA,NA,NA,NA
+dffb,Deutsche Film- und Fernsehakademie Berlin GmbH,NA,NA,D,NA,NA,NA,NA
+htwberlin,Hochschule für Technik und Wirtschaft Berlin,NA,NA,D,NA,NA,NA,NA
+gruenberlin,Grün Berlin GmbH,NA,NA,D,NA,NA,NA,NA
+buergermeisterratberlin,Bürgermeisterrat Berlin,NA,NA,D,NA,NA,NA,NA
+domowina,Domowina Lausitzer Sorben,NA,NA,D,NA,NA,NA,NA
+awobrandenburg,AWO Brandenburg,NA,NA,D,NA,NA,NA,NA
+filmuniversitaetbabelsberg,Filmuniversität Babelsberg,NA,NA,D,NA,NA,NA,NA
+ffa,Filmförderungsanstalt,NA,NA,D,NA,NA,NA,NA
+agdodk,Arbeitsgemeinschaft Dokumentarfilm,NA,NA,D,NA,NA,NA,NA
+aws,AWS GmbH und Co.,NA,NA,D,NA,NA,NA,NA
+inclusivesolutions,Inclusive Solutions,NA,NA,D,NA,NA,NA,NA
+hwkpotsdam,Handwerkskammer Potsdam,NA,NA,D,NA,NA,NA,NA
+havellaendischeeisenbahn,Havelländische Eisenbahn AG,NA,NA,D,NA,NA,NA,NA
+gemeindienstneuruppin,Gemeindienst Neuruppin e.V. ,NA,NA,D,NA,NA,NA,NA
+evangelischlutherischekirchebayern,Evangelisch-Lutherische Kirche in Bayern,NA,NA,D,NA,NA,NA,NA
+carlorffstiftung,Carl Orff Stiftung,NA,NA,D,NA,NA,NA,NA
+agahhessen,Arbeitsgemeinschaft der Ausländerbeiräte Hessen,NA,NA,D,NA,NA,NA,NA
+sozialerdienst,Allgemeiner Sozialer Dienst Hessen,NA,NA,D,NA,NA,NA,NA
+kreisverwaltungwerrameissnerkreis,Kreisverwaltung des Werra-Meißner-Kreises,NA,NA,D,NA,NA,NA,NA
+oveschwege,SPD Ortsverein Eschwede,NA,NA,D,NA,NA,NA,NA
+landesmusikrathessen,Landesmusikrat Hessen,NA,NA,D,NA,NA,NA,NA
+operfrankfurt,Oper Frankfurt,NA,NA,D,NA,NA,NA,NA
+bayreutherfestspiele,Die Bayreuther Festspiele,NA,NA,D,NA,NA,NA,NA
+unisono,unisono,NA,NA,D,NA,NA,NA,NA
+deutschermusikrat,Deutscher Musikrat,NA,NA,D,NA,NA,NA,NA
+deutscherkulturrat,Deutscher Kulturrat,NA,NA,D,NA,NA,NA,NA
+eukommission,Europäische Kommission,NA,NA,D,NA,NA,NA,NA
+deutscheorchesterstiftung,Deutsche Orchesterstiftung,NA,NA,D,NA,NA,NA,NA
+vddko,Versorgungsanstalt der deutschen Kulturorchester,NA,NA,D,NA,NA,NA,NA
+deutschemusikundorchestervereinigung,Deutsche Musik- und Orchestervereinigung e. V.,NA,NA,D,NA,NA,NA,NA
+landesregierunghessen,Landesregierung Hessen,NA,NA,D,NA,NA,NA,NA
+vhu,Vereinigung der hessischen Unternehmerverbände,NA,NA,D,NA,NA,NA,NA
+hessenmetall,Hessenmetall,NA,NA,D,NA,NA,NA,NA
+landeselternbeirat,Landeselternbeirat von Hessen,NA,NA,D,NA,NA,NA,NA
+stadtelternbeiratgiessen,Stadtelternbeirat Gießen,NA,NA,D,NA,NA,NA,NA
+landesbauern,Landesbauernverband Brandenburg,NA,NA,D,NA,NA,NA,NA
+hprberlin,Hauptpersonalratberlin,NA,NA,D,NA,NA,NA,NA
+foen,Förderverein für Öffentlichkeitsarbeit im Natur- und Umweltschutz Fön e.V. ,NA,NA,D,NA,NA,NA,NA
+drvbund,Deutsche Rentenversicherung Bund,NA,NA,D,NA,NA,NA,NA
+ipv,Industrie-Pensions-Vereins e.V.,NA,NA,D,NA,NA,NA,NA
+ibberlin,IB Berlin-Brandenburg gGmbH,NA,NA,D,NA,NA,NA,NA
+commerzbank,Commerzbank,NA,NA,D,NA,NA,NA,NA
+hpvberlin,Hospiz Berlin,NA,NA,D,NA,NA,NA,NA
+fprbrandenburg,Frauenpolitischer Rat Land Brandenburg e.V.,NA,NA,D,NA,NA,NA,NA
+juedischegemeinedeberlin,Jüdische Gemeinde zu Berlin,NA,NA,D,NA,NA,NA,NA
+aghessischenhwk,Arbeitsgemeinschaft der Hessischen Handwerkskammern,NA,NA,D,NA,NA,NA,NA
+hwkffmrheinmain,Handwerkskammer Frankfurt-Rhein-Main,NA,NA,D,NA,NA,NA,NA
+wirtschaftsfoerderungffm,Wirtschaftsförderung Frankfurt,NA,NA,D,NA,NA,NA,NA
+frankfurtrheinmain,Stadt Frankfurt Rhein-Main,NA,NA,D,NA,NA,NA,NA
+buergschaftsbankhessen,Bürgschaftsbank Hessen,NA,NA,D,NA,NA,NA,NA
+europakomitteehessen,Europakomitee Hessen,NA,NA,D,NA,NA,NA,NA
+frankfurtervolksbank,Frankfurter Volksbank,NA,NA,D,NA,NA,NA,NA
+hessenagentur,Hessen Agentur,NA,NA,D,NA,NA,NA,NA
+polytechnischegesellschaft,Polytechnische Gesellschaft,NA,NA,D,NA,NA,NA,NA
+europaunion,Europa Union,NA,NA,D,NA,NA,NA,NA
+weisschemietechnik,Weiss Chemie + Technik,NA,NA,D,NA,NA,NA,NA
+mathesundkollegen,Rechtsanwälte Mathes und Kollegen,NA,NA,D,NA,NA,NA,NA
+gimmlerreisen,Gimmler Reisen,NA,NA,D,NA,NA,NA,NA
+weissamericansinc,Weiss Americans Inc.,NA,NA,D,NA,NA,NA,NA
+weisschemical,Weiss Chemical Shanghai,NA,NA,D,NA,NA,NA,NA
+weissusa,Weiss Usa,NA,NA,D,NA,NA,NA,NA
+roteskreuzseligenstadt,Rotes Kreuz Seligenstadt,NA,NA,D,NA,NA,NA,NA
+wibank,WI-Bank,NA,NA,D,NA,NA,NA,NA
+vrbundesagenturfuerarbeit,Verwaltungsrat der Bundesagentur für Arbeit,NA,NA,D,NA,NA,NA,NA
+aokhessen,AOK Hessen,NA,NA,D,NA,NA,NA,NA
+sparkassenversicherung,Sparkassenversicherung,NA,NA,D,NA,NA,NA,NA
+europaeischenakademiederarbeit,Europäische Akademie der Arbeit,NA,NA,D,NA,NA,NA,NA
+bta,BTA GmbH,NA,NA,D,NA,NA,NA,NA
+dpolg,Deutsche Polizeigewerkschaft,NA,NA,D,NA,NA,NA,NA
+landesverbandhessen,Landesverband Hessen e.V. ,NA,NA,D,NA,NA,NA,NA
+vbehessen,Verband Bildung und Erziehung Hessen,NA,NA,D,NA,NA,NA,NA
+bdv,Bund der Vertriebenen,NA,NA,D,NA,NA,NA,NA
+stiftunghandschrift,Stiftung Handschrift,NA,NA,D,NA,NA,NA,NA
+frauenunionwiesbaden,Frauenunion Wiesbaden,NA,NA,D,NA,NA,NA,NA
+ernaehrungsratkassel,Ernährungsrat Kassel,NA,NA,D,NA,NA,NA,NA
+mbthessen,Mobiles Beratungsteam Hessen,NA,NA,D,NA,NA,NA,NA
+akademiesued,Paritätische Akademie Süd,NA,NA,D,NA,NA,NA,NA
+diensteimalter,Gesellschaft für Dienste im Alter,NA,NA,D,NA,NA,NA,NA
+wohnraumhilfedarmstadt,Neue Wohnraumhilfe Darmstadt,NA,NA,D,NA,NA,NA,NA
+unionversicherungsdienst,Union Versicherungsdienst,NA,NA,D,NA,NA,NA,NA
+freiesdeutscheshochstift,freies deutsches Hochstift/Frankfurter Goethe-Museum,NA,NA,D,NA,NA,NA,NA
+fischerstiftung,Fischer Stiftung,NA,NA,D,NA,NA,NA,NA
+goethegesellschaft,Goethe-Gesellschaft,NA,NA,D,NA,NA,NA,NA
+novalisgesellschaft,Novalis-Gesellschaft,NA,NA,D,NA,NA,NA,NA
+hihk,Hessische IHK,NA,NA,D,NA,NA,NA,NA
+econo,Econo Consultations Immobilien- und Unternehmensberatungsgesellschaft GmbH,NA,NA,D,NA,NA,NA,NA
+fiz,Frankfurter Innvoationszentrum Biotechnologie GmbH,NA,NA,D,NA,NA,NA,NA
+rheinmainverkehrsbund,Rhein-Main-Verkehrsbund Servicegesellschaft mbH,NA,NA,D,NA,NA,NA,NA
+nhw,Hessische Wohnungsbaugesellschaft Nassauische Heimstätte,NA,NA,D,NA,NA,NA,NA
+performzukunftsregion,PERFORM Zukunftsregion Frankfurt Rhein-Main,NA,NA,D,NA,NA,NA,NA
+gewhessen,GEW Hessen,NA,NA,D,NA,NA,NA,NA
+hochschulehannover,Hochschule Hannover,NA,NA,D,NA,NA,NA,NA
+landtaghessen,Landtag Hessen,NA,NA,D,NA,NA,NA,NA
+stiftunghoherdomzumainz,Stiftung Hoher Dom zu Mainz,NA,NA,D,NA,NA,NA,NA
+bauernverbandhessen,Hessischer Bauernverband,NA,NA,D,NA,NA,NA,NA
+milcherzeugnissehessen,Landesvereinigung für Milch und Milcherzeugnisse Hessen,NA,NA,D,NA,NA,NA,NA
+vereinfuerlandvolkbildung,Verein für Landvolkbildung e.V. in Hessen,NA,NA,D,NA,NA,NA,NA
+foerderungdermilchwirtschaft,Verein zur Förderung der Milchwirtschaft,NA,NA,D,NA,NA,NA,NA
+hochschuleoffenbach,Hochschule für Gestaltung Offenbach am Main,NA,NA,D,NA,NA,NA,NA
+ekhnstiftung,Kulturstiftung der Evangelischen Kirche in Hessen und Nassau,NA,NA,D,NA,NA,NA,NA
+kinderschutzbundhochtaunus,Kinderschutzbund Kreisverband Hochtaunus,NA,NA,D,NA,NA,NA,NA
+johannesmosbachstiftung,Johannes-Diakonie Mosbach,NA,NA,D,NA,NA,NA,NA
+stiftungalternativepolitik,Stiftung für Alternative Politik Hessen,NA,NA,D,NA,NA,NA,NA
+selbststaendig,Selbstständigkeit,NA,NA,D,NA,NA,NA,NA
+verbandfreierberufe,Bundesverband der Freien Berufe,NA,NA,D,NA,NA,NA,NA
+juedischegemeindeffm,Jüdische Gemeinde Frankfurt/Main,NA,NA,D,NA,NA,NA,NA
+budgestiftung,Henry und Emma Budge-Stiftung,NA,NA,D,NA,NA,NA,NA
+rothschildschestiftung,Rothschild'sche Stiftung,NA,NA,D,NA,NA,NA,NA
+stiftungneuesynagogeberlin,Stiftung Neue Synagoge Berlin - Centrum Judaicum,NA,NA,D,NA,NA,NA,NA
+institutfuersozialforschungffm,Institut für Sozialforschung Johann Wolfgang Goethe-Universität in Frankfurt am Main,NA,NA,D,NA,NA,NA,NA
+centrumjudaicum,Neue Synagoge Berlin - Centrum Judaicum,NA,NA,D,NA,NA,NA,NA
+museumsverbandhessen,Museumsverband Hessen,NA,NA,D,NA,NA,NA,NA
+landwirtschafthessen,Landesbetrieb Landwirtschaft Hessen,NA,NA,D,NA,NA,NA,NA
+landessportbundhessen,Landessportbund Hessen,NA,NA,D,NA,NA,NA,NA
+stiftungflughafenffm,Stiftung Flughafen Frankfurt/Main,NA,NA,D,NA,NA,NA,NA
+sportstiftunghessen,Sportstiftung Hessen,NA,NA,D,NA,NA,NA,NA
+lottohessen,Lotto Hessen,NA,NA,D,NA,NA,NA,NA
+landessportkonferenz,Landessportkonferenz Hessen,NA,NA,D,NA,NA,NA,NA
+hessischerjugendring,Hessischer Jugendring,NA,NA,D,NA,NA,NA,NA
+diakoniegemeinschaftpaulinenstift,Diakoniegemeinschaft Paulinenstift,NA,NA,D,NA,NA,NA,NA
+arbeitskreisevangelischerunternehmer,Arbeitskreis Evangelischer Unternehmer,NA,NA,D,NA,NA,NA,NA
+landesfrauenrathessen,LandesFrauenRat Hessen,NA,NA,D,NA,NA,NA,NA
+stvincenz,St. Vincenz-Kliniken,NA,NA,D,NA,NA,NA,NA
+kreisklinikgrossgerau,Kreisklinik Groß-Gerau,NA,NA,D,NA,NA,NA,NA
+kathkirche,Katholische Kirche,NA,NA,D,NA,NA,NA,NA
+handwerkskammerduesseldorf,Handwerkskammer Düsseldorf,NA,NA,D,NA,NA,NA,NA
+vodafone,Vodafone,NA,NA,D,NA,NA,NA,NA
+diakoniesachsen,Diakonie Sachsen,NA,NA,D,NA,NA,NA,NA
+handwerkstagsa,Handwerkstag Sachsen-Anhalt,NA,NA,D,NA,NA,NA,NA
+landkreistagsachsen,Sächsischer Landkreistag,NA,NA,D,NA,NA,NA,NA
+bauernverbandsachsenanhalt,Bauernverband Sachsen-Anhalt,NA,NA,D,NA,NA,NA,NA
+landesjugendringthueringen,Landesjugendring Thüringen,NA,NA,D,NA,NA,NA,NA
+dgbsachsenanhalt,Deutscher Gewerkschaftsbund Sachsen-Anhalt,NA,NA,D,NA,NA,NA,NA
+landesregierungsachsen,Sächsische Staatsregierung,NA,NA,D,NA,NA,NA,NA
+djvthueringen,Deutscher Journalisten-Verband Landesverband Thüringen,NA,NA,D,NA,NA,NA,NA
+katholischekirchesa,Katholische Kirche Sachsen-Anhalt,NA,NA,D,NA,NA,NA,NA
+hessintegrationskonferenz,Integrationskonferenz Hessen,NA,NA,D,NA,NA,NA,NA
+dlrgbayern,DLRG Bayern,NA,NA,D,NA,NA,NA,NA
+paritaetischehessen,Der Paritätische Hessen,NA,NA,D,NA,NA,NA,NA
+landschaftsversammlungrheinland,Landschaftsversammlung Rheinland LVR,,,,,,,
+spd,SPD,NA,NA,C,NA,NA,NA,NA
+cdu,CDU,NA,NA,C,NA,NA,NA,NA
+csu,CSU,NA,NA,C,NA,NA,NA,NA
+gruene,Bündnis 90 / Die Grünen,NA,NA,C,NA,NA,NA,NA
+linke,Die Linke,NA,NA,C,NA,NA,NA,NA
+fdp,FDP,NA,NA,C,NA,NA,NA,NA
+afd,AfD,NA,NA,C,NA,NA,NA,NA
+fw,Freie Wähler,NA,NA,C,NA,NA,NA,NA
+rb,radio bremen,NA,NA,B,NA,NA,NA,NA
+ndr,Norddeutscher Rundfunk,NA,NA,B,NA,NA,NA,NA
+br,Bayrischer Rundfunk,NA,NA,B,NA,NA,NA,NA
+wdr,Westdeutscher Rundfunk,NA,NA,B,NA,NA,NA,NA
+rbb,Rundfunk Berlin-Brandenburg,NA,NA,B,NA,NA,NA,NA
+mdr,Mitteldeutscher Rundfunk,NA,NA,B,NA,NA,NA,NA
+hr,Hessischer Rundfunk,NA,NA,B,NA,NA,NA,NA

@@ -1,0 +1,1536 @@
+---
+title: "Fehler test 2"
+author: "Abida Knebel"
+date: "2026-09-24"
+output: html_document
+---
+
+
+```{r}
+1 + 1
+```
+```{r daten}
+el <- read.csv(
+  "https://raw.githubusercontent.com/Abida102/Rundfunk/refs/heads/main/edge123.csv",
+  stringsAsFactors = FALSE
+)
+
+nl <- read.csv(
+  "https://raw.githubusercontent.com/Abida102/Rundfunk/refs/heads/main/node123.csv",
+  stringsAsFactors = FALSE
+)
+
+names(el)
+names(nl)
+```
+
+```{r ids-bereinigen}
+
+# Leerzeichen am Anfang und Ende der IDs entfernen
+el$from <- trimws(as.character(el$from))
+el$to <- trimws(as.character(el$to))
+nl$id <- trimws(as.character(nl$id))
+
+```
+
+```{r ids-kontrolle}
+
+setdiff(el$from, nl$id)
+setdiff(el$to, nl$id)
+
+```
+```{r graph}
+
+g <- graph_from_data_frame(
+  d = el,
+  vertices = nl,
+  directed = TRUE
+)
+
+s <- as_tbl_graph(g)
+
+s
+
+```
+
+```{r visualisieren}
+
+ggraph(s, layout = "fr") +
+  geom_edge_link(
+    alpha = 0.1
+  ) +
+  geom_node_point(
+    size = 1.5
+  ) +
+  theme_void()
+
+```
+
+
+```{r fehlende-werte}
+colSums(is.na(el))
+colSums(is.na(nl))
+```
+
+```{r ids}
+el$from <- as.character(el$from)
+el$to <- as.character(el$to)
+nl$id <- as.character(nl$id)
+
+setdiff(el$from, nl$id)
+setdiff(el$to, nl$id)
+```
+
+```{r suche-ids}
+
+nl$id[grepl("iad", nl$id, ignore.case = TRUE)]
+
+nl$id[grepl("landtagbayern", nl$id, ignore.case = TRUE)]
+
+```
+
+
+
+
+
+
+
+```{r}
+el <- read.csv(
+  "https://raw.githubusercontent.com/Abida102/Rundfunk/refs/heads/main/edge123.csv",
+  stringsAsFactors = FALSE
+)
+
+nl <- read.csv(
+  "https://raw.githubusercontent.com/Abida102/Rundfunk/refs/heads/main/node123.csv",
+  stringsAsFactors = FALSE
+)
+
+names(el)
+names(nl)
+```
+
+```{r}
+colSums(is.na(el))
+colSums(is.na(nl))
+```
+
+
+```{r kategorien}
+
+table(nl$type, useNA = "ifany")
+
+```
+
+```{r variablen}
+
+table(nl$sector, useNA = "ifany")
+table(nl$party, useNA = "ifany")
+table(nl$Arbeitgeber, useNA = "ifany")
+
+```
+
+```{r netzwerk-uebersicht}
+
+ggraph(s, layout = "fr") +
+  geom_edge_link(
+    alpha = 0.08
+  ) +
+  geom_node_point(
+    aes(color = type),
+    size = 2
+  ) +
+  theme_void() +
+  theme(
+    legend.position = "right"
+  )
+
+```
+
+
+```{r visualisieren}
+
+# Fehlende Sektoren als "unbekannt" kennzeichnen
+nl$sector[is.na(nl$sector)] <- "unbekannt"
+
+# Netzwerk neu erstellen
+g <- graph_from_data_frame(
+  d = el,
+  vertices = nl,
+  directed = TRUE
+)
+
+s <- as_tbl_graph(g)
+
+# Netzwerk visualisieren
+ggraph(s, layout = "fr") +
+  
+  geom_edge_link(
+    alpha = 0.05
+  ) +
+  
+  geom_node_point(
+    aes(
+      color = sector,
+      size = centrality_degree()
+    ),
+    alpha = 0.8
+  ) +
+  
+  theme_void() +
+  
+  theme(
+    legend.position = "right"
+  )
+```
+
+
+```{r}
+# Fehlende Sektoren kennzeichnen
+nl$sector[is.na(nl$sector)] <- "unbekannt"
+
+# Kleine Sektoren zusammenfassen
+nl$sector2 <- ifelse(
+  nl$sector %in% c(
+    "politik",
+    "sozial",
+    "bildung",
+    "kultur",
+    "medien",
+    "staat",
+    "wirtschaft",
+    "unbekannt"
+  ),
+  nl$sector,
+  "sonstige"
+)
+
+# Tippfehler korrigieren
+nl$sector2[nl$sector2 == "poltik"] <- "politik"
+
+# Graph neu erstellen
+g <- graph_from_data_frame(
+  d = el,
+  vertices = nl,
+  directed = TRUE
+)
+
+s <- as_tbl_graph(g)
+
+# Netzwerk darstellen
+ggraph(s, layout = "fr") +
+  geom_edge_link(alpha = 0.04) +
+  geom_node_point(
+    aes(
+      color = sector2,
+      size = centrality_degree()
+    ),
+    alpha = 0.85
+  ) +
+  scale_color_brewer(
+    palette = "Dark2",
+    name = "Sektor"
+  ) +
+  scale_size_continuous(
+    range = c(1.5, 6),
+    name = "Gradzentralität"
+  ) +
+  theme_void() +
+  theme(
+    legend.position = "right",
+    legend.text = element_text(size = 9),
+    legend.title = element_text(size = 11, face = "bold")
+  )
+```
+
+
+```{r}
+# Gradzentralität für jeden Knoten berechnen
+s <- s %>%
+  activate(nodes) %>%
+  mutate(degree = centrality_degree())
+
+# Nur die 30 zentralsten Personen beschriften
+top_nodes <- s %>%
+  activate(nodes) %>%
+  arrange(desc(degree)) %>%
+  slice_head(n = 30) %>%
+  pull(name)
+
+# Netzwerk mit Beschriftungen
+ggraph(s, layout = "fr") +
+  geom_edge_link(alpha = 0.04) +
+  
+  geom_node_point(
+    aes(
+      color = sector2,
+      size = degree
+    ),
+    alpha = 0.85
+  ) +
+  
+  geom_node_text(
+    aes(
+      label = ifelse(name %in% top_nodes, name, "")
+    ),
+    size = 2.5,
+    repel = TRUE
+  ) +
+  
+  scale_color_brewer(
+    palette = "Dark2",
+    name = "Sektor"
+  ) +
+  
+  scale_size_continuous(
+    range = c(1.5, 6),
+    name = "Gradzentralität"
+  ) +
+  
+  theme_void() +
+  theme(
+    legend.position = "right",
+    legend.text = element_text(size = 9),
+    legend.title = element_text(size = 11, face = "bold")
+  )
+```
+
+
+```{r}
+# Sektoren vereinheitlichen
+nl$sector <- trimws(tolower(nl$sector))
+
+# Tippfehler korrigieren
+nl$sector[nl$sector == "poltik"] <- "politik"
+
+# Fehlende Werte kennzeichnen
+nl$sector[is.na(nl$sector)] <- "unbekannt"
+```
+
+
+
+
+```{r}
+# Große Kategorien behalten
+große_sektoren <- c(
+  "politik",
+  "sozial",
+  "bildung",
+  "kultur",
+  "medien",
+  "staat",
+  "wirtschaft",
+  "unbekannt"
+)
+
+# Alles andere wird "sonstige"
+nl$sector2 <- ifelse(
+  nl$sector %in% große_sektoren,
+  nl$sector,
+  "sonstige"
+)
+
+# Als Faktor festlegen
+nl$sector2 <- factor(
+  nl$sector2,
+  levels = c(
+    "politik",
+    "sozial",
+    "bildung",
+    "kultur",
+    "medien",
+    "staat",
+    "wirtschaft",
+    "unbekannt",
+    "sonstige"
+  )
+)
+
+# Kontrolle
+table(nl$sector2, useNA = "ifany")
+```
+
+
+
+```{r}
+
+```
+
+
+```{r}
+# Sektoren vereinheitlichen
+nl$sector <- trimws(tolower(nl$sector))
+
+# Tippfehler korrigieren
+nl$sector[nl$sector == "poltik"] <- "politik"
+
+# Fehlende Werte kennzeichnen
+nl$sector[is.na(nl$sector)] <- "unbekannt"
+```
+
+```{r}
+# Große Kategorien behalten
+große_sektoren <- c(
+  "politik",
+  "sozial",
+  "bildung",
+  "kultur",
+  "medien",
+  "staat",
+  "wirtschaft",
+  "unbekannt"
+)
+
+# Alles andere wird "sonstige"
+nl$sector2 <- ifelse(
+  nl$sector %in% große_sektoren,
+  nl$sector,
+  "sonstige"
+)
+
+# Als Faktor festlegen
+nl$sector2 <- factor(
+  nl$sector2,
+  levels = c(
+    "politik",
+    "sozial",
+    "bildung",
+    "kultur",
+    "medien",
+    "staat",
+    "wirtschaft",
+    "unbekannt",
+    "sonstige"
+  )
+)
+
+# Kontrolle
+table(nl$sector2, useNA = "ifany")
+```
+
+
+```{r}
+# Netzwerk erstellen
+g <- graph_from_data_frame(
+  d = el,
+  vertices = nl,
+  directed = TRUE
+)
+
+# In tidygraph umwandeln
+s <- as_tbl_graph(g)
+
+# Gradzentralität berechnen
+s <- s %>%
+  activate(nodes) %>%
+  mutate(
+    degree = centrality_degree()
+  )
+```
+
+
+
+```{r}
+# Die 30 zentralsten Knoten bestimmen
+top_nodes <- s %>%
+  activate(nodes) %>%
+  arrange(desc(degree)) %>%
+  slice_head(n = 30) %>%
+  pull(name)
+
+# Kontrolle
+top_nodes
+```
+
+
+```{r}
+ggraph(s, layout = "fr") +
+  
+  geom_edge_link(alpha = 0.04) +
+  
+  geom_node_point(
+    aes(
+      color = sector2,
+      size = degree
+    ),
+    alpha = 0.85
+  ) +
+  
+  geom_node_text(
+    aes(
+      label = ifelse(
+        name %in% top_nodes,
+        as.character(name),
+        ""
+      )
+    ),
+    size = 2.5,
+    repel = TRUE
+  ) +
+  
+  scale_color_hue(
+    name = "Sektor"
+  ) +
+  
+  scale_size_continuous(
+    range = c(1.5, 6),
+    name = "Gradzentralität"
+  ) +
+  
+  theme_void() +
+  
+  theme(
+    legend.position = "right",
+    legend.text = element_text(size = 9),
+    legend.title = element_text(
+      size = 11,
+      face = "bold"
+    )
+  )
+```
+```{r}
+library(igraph)
+library(tidygraph)
+library(dplyr)
+library(ggraph)
+```
+
+
+```{r}
+ggraph(s, layout = "fr") +
+  
+  geom_edge_link(alpha = 0.03) +
+  
+  geom_node_point(
+    aes(
+      color = sector2,
+      size = degree
+    ),
+    alpha = 0.8
+  ) +
+  
+  geom_node_text(
+    aes(
+      label = ifelse(
+        name %in% top_nodes,
+        name,
+        NA
+      )
+    ),
+    size = 2.5,
+    repel = TRUE,
+    na.rm = TRUE
+  ) +
+  
+  scale_color_hue(
+    name = "Sektor"
+  ) +
+  
+  scale_size_continuous(
+    range = c(1.5, 5),
+    name = "Gradzentralität"
+  ) +
+  
+  theme_void() +
+  
+  theme(
+    legend.position = "right",
+    legend.text = element_text(size = 9),
+    legend.title = element_text(
+      size = 11,
+      face = "bold"
+    )
+  )
+```
+
+```{r}
+unique(nl$type)
+```
+
+```{r}
+unique(nl$Arbeitgeber)
+```
+
+
+```{r}
+# Arbeitgeber bereinigen
+nl$Arbeitgeber <- trimws(tolower(nl$Arbeitgeber))
+
+# Rundfunkrat bestimmen
+nl$rundfunkrat <- case_when(
+  
+  # Brandenburg / Berlin
+  grepl("brandenburg|berlin", nl$Arbeitgeber) ~ "rbb",
+  
+  # Sachsen / Sachsen-Anhalt / Thüringen
+  grepl("sachsenanhalt|landtagsachsenanhalt|saachsenanhalt", nl$Arbeitgeber) ~ "mdr",
+  grepl("sachsen|landtagsachsen|landrat.*leipzig|stadtjena|mdr", nl$Arbeitgeber) ~ "mdr",
+  grepl("thueringen|thueringen|jena", nl$Arbeitgeber) ~ "mdr",
+  
+  # Bayern
+  grepl("bayern|muenchen|nuernberg|wuerzburg|bamberg|ingolstadt|deggendorf|erlangen|oberpfalz", 
+        nl$Arbeitgeber) ~ "br",
+  
+  # Hessen
+  grepl("hessen|frankfurt|offenbach", nl$Arbeitgeber) ~ "hr",
+  
+  # Niedersachsen
+  grepl("niedersachsen|hannover", nl$Arbeitgeber) ~ "ndr",
+  
+  # Schleswig-Holstein / Hamburg / Mecklenburg-Vorpommern
+  grepl("schleswig|hamburg|kiel|preetz|meckpom|malchin", 
+        nl$Arbeitgeber) ~ "ndr",
+  
+  # Bremen
+  grepl("bremen|bremerhaven|radiobremen", nl$Arbeitgeber) ~ "radio bremen",
+  
+  # Nordrhein-Westfalen
+  grepl("nrw|koeln|koeln|duesseldorf|paderborn|westfalen|bonn", 
+        nl$Arbeitgeber) ~ "wdr",
+  
+  # Standard
+  TRUE ~ NA_character_
+)
+```
+
+
+```{r}
+table(nl$rundfunkrat, useNA = "ifany")
+```
+
+```{r}
+head(nl$id, 50)
+```
+
+```{r}
+head(el, 20)
+```
+
+
+```{r}
+# Alle Rundfunkrats-Knoten anzeigen
+unique(el$to)
+```
+
+
+```{r}
+sort(unique(el$to))
+```
+
+
+```{r}
+# Die neun ARD-Rundfunkräte
+raete <- c(
+  "br",
+  "hr",
+  "mdr",
+  "ndr",
+  "rb",
+  "rbb",
+  "sr",
+  "swr",
+  "wdr"
+)
+```
+
+
+```{r}
+library(dplyr)
+```
+
+```{r}
+rat_anzahl <- el %>%
+  filter(to %in% raete) %>%
+  distinct(to, from) %>%
+  count(to, name = "personen")
+
+rat_anzahl
+```
+
+
+
+```{r}
+# Nur Verbindungen zu den Rundfunkräten auswählen
+rat_daten <- el %>%
+  filter(to %in% raete)
+
+# Anzahl der Personen pro Rundfunkrat
+rat_anzahl <- rat_daten %>%
+  count(to, name = "personen")
+
+rat_anzahl
+```
+
+
+
+
+
+
+
+
+
+
+```{r}
+rat_anzahl <- el %>%
+  filter(to %in% raete) %>%
+  distinct(to, from) %>%
+  count(to, name = "personen")
+
+rat_anzahl
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```{r}
+el %>%
+  filter(grepl("sr|swr", to, ignore.case = TRUE)) %>%
+  count(to)
+```
+
+
+```{r}
+standorte <- data.frame(
+  rat = c(
+    "br",
+    "hr",
+    "mdr",
+    "ndr",
+    "rb",
+    "rbb",
+    "sr",
+    "swr",
+    "wdr"
+  ),
+  name = c(
+    "BR",
+    "HR",
+    "MDR",
+    "NDR",
+    "Radio Bremen",
+    "RBB",
+    "SR",
+    "SWR",
+    "WDR"
+  ),
+  lon = c(
+    11.576,
+    8.682,
+    12.373,
+    9.993,
+    8.807,
+    13.405,
+    7.011,
+    9.182,
+    6.960
+  ),
+  lat = c(
+    48.137,
+    50.110,
+    51.340,
+    53.551,
+    53.079,
+    52.520,
+    49.240,
+    48.775,
+    50.938
+  )
+)
+
+standorte
+```
+
+
+```{r}
+# Standorte der Rundfunkräte
+standorte <- data.frame(
+  rat = c(
+    "br",
+    "hr",
+    "mdr",
+    "ndr",
+    "rb",
+    "rbb",
+    "sr",
+    "swr",
+    "wdr"
+  ),
+  
+  name = c(
+    "BR",
+    "HR",
+    "MDR",
+    "NDR",
+    "Radio Bremen",
+    "RBB",
+    "SR",
+    "SWR",
+    "WDR"
+  ),
+  
+  lon = c(
+    11.576,
+    8.682,
+    12.373,
+    9.993,
+    8.807,
+    13.405,
+    6.996,
+    9.182,
+    6.960
+  ),
+  
+  lat = c(
+    48.137,
+    50.110,
+    51.340,
+    53.551,
+    53.079,
+    52.520,
+    49.240,
+    48.775,
+    50.938
+  )
+)
+```
+
+
+```{r}
+standorte <- standorte %>%
+  left_join(
+    rat_anzahl,
+    by = c("rat" = "to")
+  )
+
+standorte
+```
+
+
+
+
+
+
+
+
+
+
+```{r}
+standorte <- standorte %>%
+  left_join(
+    rat_anzahl,
+    by = c("rat" = "to")
+  )
+
+standorte
+```
+
+```{r}
+standorte <- standorte %>%
+  mutate(
+    personen_karte = ifelse(is.na(personen), 0, personen),
+    datenstatus = ifelse(
+      is.na(personen),
+      "Keine Zuordnung in Netzwerkdaten",
+      "Netzwerkdaten vorhanden"
+    )
+  )
+
+standorte
+```
+
+
+
+
+```{r}
+install.packages("sf")
+```
+
+```{r}
+
+```
+
+
+
+
+
+
+
+```{r}
+library(sf)
+```
+
+
+
+```{r}
+raete <- c(
+  "br",
+  "hr",
+  "mdr",
+  "ndr",
+  "rb",
+  "rbb",
+  "sr",
+  "swr",
+  "wdr"
+)
+```
+
+
+```{r}
+s <- as_tbl_graph(g) %>%
+  activate(nodes) %>%
+  mutate(
+    degree = centrality_degree()
+  )
+```
+
+```{r}
+top_personen <- s %>%
+  activate(nodes) %>%
+  filter(!name %in% raete) %>%
+  arrange(desc(degree)) %>%
+  slice_head(n = 30) %>%
+  pull(name)
+
+zeige_knoten <- c(top_personen, raete)
+```
+
+
+```{r}
+s_klein <- s %>%
+  activate(nodes) %>%
+  filter(name %in% zeige_knoten)
+```
+
+```{r}
+ggraph(s_klein, layout = "fr") +
+
+  # Verbindungen
+  geom_edge_link(
+    alpha = 0.2
+  ) +
+
+  # normale Personen
+  geom_node_point(
+    aes(
+      color = sector2,
+      size = degree
+    ),
+    alpha = 0.8
+  ) +
+
+  # Rundfunkräte hervorheben
+  geom_node_point(
+    data = function(x) x[x$name %in% raete, ],
+    aes(x = x, y = y),
+    size = 7,
+    shape = 21,
+    fill = "white",
+    color = "black",
+    stroke = 1.5
+  ) +
+
+  # Namen der Rundfunkräte
+  geom_node_text(
+    data = function(x) x[x$name %in% raete, ],
+    aes(x = x, y = y, label = name),
+    size = 4,
+    fontface = "bold",
+    nudge_y = 0.15
+  ) +
+
+  scale_size_continuous(
+    name = "Degree-Zentralität"
+  ) +
+
+  labs(
+    title = "Die 30 zentralsten Personen und die ARD-Rundfunkräte",
+    subtitle = "Personen nach Sektor eingefärbt; Rundfunkräte hervorgehoben"
+  ) +
+
+  theme_void() +
+  theme(
+    legend.position = "right"
+  )
+```
+
+igizgizg
+
+
+```{r}
+raete <- c(
+  "br",
+  "hr",
+  "mdr",
+  "ndr",
+  "rb",
+  "rbb",
+  "sr",
+  "swr",
+  "wdr"
+)
+```
+
+
+
+```{r}
+s <- as_tbl_graph(g) %>%
+  activate(nodes) %>%
+  mutate(
+    degree = centrality_degree()
+  )
+```
+
+```{r}
+top_personen <- s %>%
+  activate(nodes) %>%
+  filter(!name %in% raete) %>%
+  arrange(desc(degree)) %>%
+  slice_head(n = 30) %>%
+  pull(name)
+
+top_personen
+```
+
+
+```{r}
+rat_personen <- el %>%
+  filter(to %in% raete) %>%
+  pull(from) %>%
+  unique()
+
+length(rat_personen)
+```
+
+```{r}
+zeige_knoten <- unique(
+  c(
+    top_personen,
+    rat_personen,
+    raete
+  )
+)
+
+length(zeige_knoten)
+```
+
+
+```{r}
+s_klein <- s %>%
+  activate(nodes) %>%
+  mutate(
+    ist_rat = name %in% raete
+  ) %>%
+  filter(name %in% zeige_knoten)
+```
+
+
+```{r}
+ggraph(s_klein, layout = "fr") +
+
+  # Verbindungslinien
+  geom_edge_link(
+    alpha = 0.35,
+    linewidth = 0.4
+  ) +
+
+  # Personen und Rundfunkräte
+  geom_node_point(
+    aes(
+      color = sector2,
+      size = degree
+    ),
+    alpha = 0.85
+  ) +
+
+  # Rundfunkräte hervorheben
+  geom_node_point(
+    aes(
+      filter = ist_rat
+    ),
+    shape = 21,
+    size = 7,
+    fill = "white",
+    color = "black",
+    stroke = 1.5
+  ) +
+
+  # Namen aller Personen
+  geom_node_text(
+    aes(
+      label = name
+    ),
+    size = 2.5,
+    repel = TRUE
+  ) +
+
+  scale_size_continuous(
+    name = "Degree-Zentralität"
+  ) +
+
+  labs(
+    title = "Netzwerk der ARD-Rundfunkräte",
+    subtitle = "30 zentralste Personen und Personen mit direkter Verbindung zu einem Rundfunkrat",
+    color = "Sektor"
+  ) +
+
+  theme_void() +
+  theme(
+    legend.position = "right"
+  )
+```
+
+
+```{r}
+top_personen <- s %>%
+  activate(nodes) %>%
+  filter(!name %in% raete) %>%
+  arrange(desc(degree)) %>%
+  slice_head(n = 30) %>%
+  pull(id)
+
+top_personen
+```
+
+
+```{r}
+zeige_knoten <- c(top_personen, raete)
+```
+
+```{r}
+el_klein <- el %>%
+  filter(
+    from %in% zeige_knoten &
+    to %in% zeige_knoten
+  )
+
+nrow(el_klein)
+```
+
+```{r}
+nl_klein <- nl %>%
+  filter(id %in% zeige_knoten) %>%
+  mutate(
+    ist_rat = id %in% raete
+  )
+```
+
+
+
+```{r}
+g_klein <- graph_from_data_frame(
+  d = el_klein,
+  vertices = nl_klein,
+  directed = TRUE
+)
+
+s_klein <- as_tbl_graph(g_klein)
+```
+
+```{r}
+s_klein <- s_klein %>%
+  activate(nodes) %>%
+  mutate(
+    degree = centrality_degree(),
+    ist_rat = name %in% raete
+  )
+```
+
+
+
+```{r}
+ggraph(s_klein, layout = "fr") +
+
+  geom_edge_link(
+    alpha = 0.5,
+    linewidth = 0.6
+  ) +
+
+  geom_node_point(
+    aes(
+      color = sector2,
+      size = degree
+    ),
+    alpha = 0.8
+  ) +
+
+  geom_node_point(
+    aes(
+      filter = ist_rat
+    ),
+    shape = 21,
+    size = 9,
+    fill = "white",
+    color = "black",
+    stroke = 2
+  ) +
+
+  geom_node_text(
+    aes(label = name),
+    size = 2.8,
+    repel = TRUE
+  ) +
+
+  scale_size_continuous(
+    name = "Degree"
+  ) +
+
+  labs(
+    title = "30 zentrale Personen im Netzwerk der ARD-Rundfunkräte",
+    subtitle = "Rundfunkräte hervorgehoben; Personen nach Sektor eingefärbt",
+    color = "Sektor"
+  ) +
+
+  theme_void() +
+  theme(
+    legend.position = "right"
+  )
+```
+
+
+
+```{r}
+```{r}
+s %>%
+  activate(nodes) %>%
+  as_tibble() %>%
+  names()
+```
+
+
+
+```{r}
+names(nl)
+```
+
+```{r}
+table(nl$rundfunkrat, useNA = "ifany")
+```
+
+```{r}
+g <- graph_from_data_frame(
+  d = el,
+  vertices = nl,
+  directed = TRUE
+)
+
+s <- as_tbl_graph(g)
+```
+
+
+```{r}
+s <- s %>%
+  activate(nodes) %>%
+  mutate(
+    degree = centrality_degree()
+  )
+```
+
+```{r}
+top_personen <- s %>%
+  activate(nodes) %>%
+  filter(!is.na(rundfunkrat)) %>%
+  arrange(desc(degree)) %>%
+  slice_head(n = 30) %>%
+  pull(id)
+
+top_personen
+```
+
+
+hbhipb
+
+
+```{r}
+g <- graph_from_data_frame(
+  d = el,
+  vertices = nl,
+  directed = TRUE
+)
+
+nl$degree <- degree(
+  g,
+  mode = "all"
+)
+```
+
+```{r}
+top_personen <- nl %>%
+  filter(!is.na(name)) %>%
+  arrange(desc(degree)) %>%
+  slice_head(n = 30)
+
+top_personen[, c("id", "name", "sector2", "rundfunkrat", "degree")]
+```
+
+```{r}
+zeige_knoten <- unique(
+  c(
+    top_personen$id,
+    raete
+  )
+)
+
+length(zeige_knoten)
+```
+
+
+```{r}
+el_klein <- el %>%
+  filter(
+    from %in% zeige_knoten &
+    to %in% zeige_knoten
+  )
+
+nrow(el_klein)
+```
+
+
+```{r}
+nl_klein <- nl %>%
+  filter(id %in% zeige_knoten)
+```
+
+
+```{r}
+g_klein <- graph_from_data_frame(
+  d = el_klein,
+  vertices = nl_klein,
+  directed = TRUE
+)
+```
+
+
+```{r}
+ggraph(g_klein, layout = "fr") +
+
+  geom_edge_link(
+    alpha = 0.5,
+    linewidth = 0.6
+  ) +
+
+  geom_node_point(
+    aes(
+      color = sector2,
+      size = degree
+    ),
+    alpha = 0.8
+  ) +
+
+  geom_node_text(
+    aes(label = name),
+    size = 2.5,
+    repel = TRUE
+  ) +
+
+  labs(
+    title = "30 zentrale Personen im Netzwerk der ARD-Rundfunkräte",
+    subtitle = "Personen nach Sektor eingefärbt",
+    color = "Sektor",
+    size = "Degree"
+  ) +
+
+  theme_void() +
+  theme(
+    legend.position = "right"
+  )
+```
+
+```{r}
+g_gesamt <- graph_from_data_frame(
+  d = el,
+  vertices = nl,
+  directed = TRUE
+)
+
+V(g_gesamt)$degree <- degree(
+  g_gesamt,
+  mode = "all"
+)
+
+V(g_gesamt)$ist_rat <- V(g_gesamt)$name %in% c(
+  "br",
+  "hr",
+  "mdr",
+  "ndr",
+  "rb",
+  "rbb",
+  "sr",
+  "swr",
+  "wdr"
+)
+
+V(g_gesamt)$ist_top30 <- V(g_gesamt)$name %in% top_personen$name
+```
+
+
+
+
+```{r}
+ggraph(g_gesamt, layout = "fr") +
+
+  # ALLE Kanten
+  geom_edge_link(
+    alpha = 0.08,
+    linewidth = 0.3
+  ) +
+
+  # ALLE Nodes
+  geom_node_point(
+    aes(
+      color = sector2,
+      size = degree
+    ),
+    alpha = 0.5
+  ) +
+
+  # Top-30-Personen hervorheben
+  geom_node_point(
+    aes(
+      filter = ist_top30,
+      color = sector2
+    ),
+    size = 4,
+    alpha = 1
+  ) +
+
+  # Rundfunkräte hervorheben
+  geom_node_point(
+    aes(filter = ist_rat),
+    shape = 21,
+    size = 8,
+    fill = "white",
+    color = "black",
+    stroke = 2
+  ) +
+
+  # Nur die 30 zentralsten Personen beschriften
+  geom_node_text(
+    aes(
+      label = ifelse(ist_top30, name, NA)
+    ),
+    size = 2.5,
+    repel = TRUE
+  ) +
+
+  # Rundfunkräte beschriften
+  geom_node_text(
+    aes(
+      label = ifelse(ist_rat, name, NA)
+    ),
+    size = 3.5,
+    fontface = "bold",
+    repel = TRUE
+  ) +
+
+  scale_size_continuous(
+    name = "Degree-Zentralität"
+  ) +
+
+  labs(
+    title = "Netzwerk der ARD-Rundfunkräte",
+    subtitle = "Alle Knoten und Verbindungen · 30 zentralste Personen hervorgehoben",
+    color = "Sektor"
+  ) +
+
+  theme_void() +
+  theme(
+    legend.position = "right"
+  )
+```
+```{r}
+el$from <- trimws(as.character(el$from))
+el$to <- trimws(as.character(el$to))
+nl$id <- trimws(as.character(nl$id))
+```
+
+
+```{r}
+g <- graph_from_data_frame(
+  d = el,
+  vertices = nl,
+  directed = TRUE
+)
+
+netzwerk <- as_tbl_graph(g)
+
+class(netzwerk)
+```
+```{r}
+netzwerk
+```
+
+
+```{r}
+class(netzwerk)
+```
+
+
+
+```{r}
+save(netzwerk, file = "rundfunknetz.RData")
+```
+
+```{r}
+getwd()
+```
+
+
+
+```{Links}
+"C:/Users/abida/Downloads/ARD_Rundfunkräte_Edge-_und_Nodelist - Codebuch.pdf"
+"C:/Users/abida/Downloads/node123.csv"
+"C:/Users/abida/Downloads/edge123.csv"
+https://github.com/Abida102/Rundfunk-Netzwerk/upload
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
